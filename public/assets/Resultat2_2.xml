@@ -1,0 +1,5124 @@
+<?xml version="1.0" encoding="windows-1252"?>
+ <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2017-05-21T21:54:02.962"
+ creator="SportSoftware OE2010 V.11.0">
+<Event>
+<Name>Sprintcup 2 2017</Name>
+</Event>
+<ClassResult>
+<Class resultListMode="Default" sex="M" minAge="50">
+<Id>14</Id>
+<Name>H50</Name>
+<ShortName>H50</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Bana 5</Name>
+<Length>2130</Length>
+<Climb>0</Climb>
+<NumberOfControls>15</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3375637</EntryId>
+<Person sex="M">
+<Id>22931</Id>
+<Name>
+<Family>Norén</Family>
+<Given>Sture</Given>
+</Name>
+<BirthDate>1958-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>1</BibNumber>
+<StartTime>2017-05-09T19:13:37.000</StartTime>
+<FinishTime>2017-05-09T19:32:11.000</FinishTime>
+<Time>1114</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9580322</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3369892</EntryId>
+<Person sex="M">
+<Id>25717</Id>
+<Name>
+<Family>Örnerling</Family>
+<Given>Sven</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>6</BibNumber>
+<StartTime>2017-05-09T19:19:13.000</StartTime>
+<FinishTime>2017-05-09T19:38:11.000</FinishTime>
+<Time>1138</Time>
+<TimeBehind>24</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9915140</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3369416</EntryId>
+<Person sex="M">
+<Id>41259</Id>
+<Name>
+<Family>Granberg</Family>
+<Given>Magnus</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>5</BibNumber>
+<StartTime>2017-05-09T19:08:58.000</StartTime>
+<FinishTime>2017-05-09T19:31:24.000</FinishTime>
+<Time>1346</Time>
+<TimeBehind>232</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>445536</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375886</EntryId>
+<Person sex="M">
+<Id>30270</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Karl-Erik</Given>
+</Name>
+<BirthDate>1957-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>2</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1455</Time>
+<TimeBehind>341</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>408999</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378749</EntryId>
+<Person sex="M">
+<Id>94590</Id>
+<Name>
+<Family>Gren</Family>
+<Given>Lars</Given>
+</Name>
+<BirthDate>1961-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>192</Id>
+<Name>Jokkmokks SK</Name>
+<ShortName>Jokkmokks SK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>3</BibNumber>
+<StartTime>2017-05-09T19:27:05.000</StartTime>
+<FinishTime>2017-05-09T19:49:24.000</FinishTime>
+<Time>1339</Time>
+<TimeBehind>225</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>437537</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3368421</EntryId>
+<Person sex="M">
+<Id>32044</Id>
+<Name>
+<Family>Wickbom</Family>
+<Given>Hans</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>4</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>550717</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>22</Id>
+<Name>H21</Name>
+<ShortName>H21</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9007</Id>
+<Name>Bana 7</Name>
+<Length>3340</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3378458</EntryId>
+<Person sex="M">
+<Id>8337</Id>
+<Name>
+<Family>Eliasson</Family>
+<Given>Tobias</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>374</Id>
+<Name>Sundsvalls OK</Name>
+<ShortName>Sundsvalls OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>21</BibNumber>
+<StartTime>2017-05-09T19:30:01.000</StartTime>
+<FinishTime>2017-05-09T19:49:45.000</FinishTime>
+<Time>1184</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>771118</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3379406</EntryId>
+<Person sex="M">
+<Id>24764</Id>
+<Name>
+<Family>Wickbom</Family>
+<Given>Rasmus</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>15</BibNumber>
+<StartTime>2017-05-09T19:37:01.000</StartTime>
+<FinishTime>2017-05-09T19:56:58.000</FinishTime>
+<Time>1197</Time>
+<TimeBehind>13</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>900410</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3359528</EntryId>
+<Person sex="M">
+<Id>2373</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Mattias</Given>
+</Name>
+<BirthDate>1990-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>27</BibNumber>
+<StartTime>2017-05-09T19:12:01.000</StartTime>
+<FinishTime>2017-05-09T19:32:22.000</FinishTime>
+<Time>1221</Time>
+<TimeBehind>37</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>9000410</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376983</EntryId>
+<Person sex="M">
+<Id>26257</Id>
+<Name>
+<Family>Lidman</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>7</BibNumber>
+<StartTime>2017-05-09T19:57:33.000</StartTime>
+<FinishTime>2017-05-09T20:18:11.000</FinishTime>
+<Time>1238</Time>
+<TimeBehind>54</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>16926</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375144</EntryId>
+<Person sex="M">
+<Id>13624</Id>
+<Name>
+<Family>Toftered</Family>
+<Given>Jonas</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>296</Id>
+<Name>IF Rigor</Name>
+<ShortName>IF Rigor</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>37</BibNumber>
+<StartTime>2017-05-09T19:05:01.000</StartTime>
+<FinishTime>2017-05-09T19:26:56.000</FinishTime>
+<Time>1315</Time>
+<TimeBehind>131</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>9442233</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>47178</Id>
+<Name>
+<Family>Lindholm</Family>
+<Given>Truls</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>374</Id>
+<Name>Sundsvalls OK</Name>
+<ShortName>Sundsvalls OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>17</BibNumber>
+<StartTime>2017-05-09T19:14:01.000</StartTime>
+<FinishTime>2017-05-09T19:36:13.000</FinishTime>
+<Time>1332</Time>
+<TimeBehind>148</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>9990528</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375056</EntryId>
+<Person sex="M">
+<Id>36102</Id>
+<Name>
+<Family>Öqvist</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>1997-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>35</BibNumber>
+<StartTime>2017-05-09T19:19:01.000</StartTime>
+<FinishTime>2017-05-09T19:41:24.000</FinishTime>
+<Time>1343</Time>
+<TimeBehind>159</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>445177</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lindehag</Family>
+<Given>Jakob</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>124</BibNumber>
+<StartTime>2017-05-09T19:10:01.000</StartTime>
+<FinishTime>2017-05-09T19:32:52.000</FinishTime>
+<Time>1371</Time>
+<TimeBehind>187</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>435399</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378798</EntryId>
+<Person sex="M">
+<Id>15450</Id>
+<Name>
+<Family>Henriksson</Family>
+<Given>Nils</Given>
+</Name>
+<BirthDate>1997-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>18</BibNumber>
+<StartTime>2017-05-09T18:55:01.000</StartTime>
+<FinishTime>2017-05-09T19:18:23.000</FinishTime>
+<Time>1402</Time>
+<TimeBehind>218</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>7931606</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3367194</EntryId>
+<Person sex="M">
+<Id>17701</Id>
+<Name>
+<Family>Salén</Family>
+<Given>Robin</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>26</BibNumber>
+<StartTime>2017-05-09T19:32:01.000</StartTime>
+<FinishTime>2017-05-09T19:55:35.000</FinishTime>
+<Time>1414</Time>
+<TimeBehind>230</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>980128</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3374486</EntryId>
+<Person sex="M">
+<Id>94666</Id>
+<Name>
+<Family>Strandberg</Family>
+<Given>John</Given>
+</Name>
+<BirthDate>1985-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>30</BibNumber>
+<StartTime>2017-05-09T19:38:10.000</StartTime>
+<FinishTime>2017-05-09T20:01:51.000</FinishTime>
+<Time>1421</Time>
+<TimeBehind>237</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>7788997</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3371638</EntryId>
+<Person sex="M">
+<Id>10917</Id>
+<Name>
+<Family>Vedin</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1994-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>374</Id>
+<Name>Sundsvalls OK</Name>
+<ShortName>Sundsvalls OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>25</BibNumber>
+<StartTime>2017-05-09T19:20:19.000</StartTime>
+<FinishTime>2017-05-09T19:44:24.000</FinishTime>
+<Time>1445</Time>
+<TimeBehind>261</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>9940430</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3359843</EntryId>
+<Person sex="M">
+<Id>22052</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Harald</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>29</BibNumber>
+<StartTime>2017-05-09T19:13:08.000</StartTime>
+<FinishTime>2017-05-09T19:37:19.000</FinishTime>
+<Time>1451</Time>
+<TimeBehind>267</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>7990615</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375763</EntryId>
+<Person sex="M">
+<Id>29052</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Kalle</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>394</Id>
+<Name>Tjalve IF Norrköping</Name>
+<ShortName>Tjalve IF Norrköping</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>34</BibNumber>
+<StartTime>2017-05-09T19:27:02.000</StartTime>
+<FinishTime>2017-05-09T19:51:44.000</FinishTime>
+<Time>1482</Time>
+<TimeBehind>298</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>522561</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376434</EntryId>
+<Person sex="M">
+<Id>74993</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Thomas</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>33</BibNumber>
+<StartTime>2017-05-09T19:41:28.000</StartTime>
+<FinishTime>2017-05-09T20:06:18.000</FinishTime>
+<Time>1490</Time>
+<TimeBehind>306</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>8380838</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376479</EntryId>
+<Person sex="M">
+<Id>15512</Id>
+<Name>
+<Family>Winkler</Family>
+<Given>Mårten</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>252</Id>
+<Name>Strängnäs-Malmby OL</Name>
+<ShortName>Strängnäs-Malmby OL</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>11</BibNumber>
+<StartTime>2017-05-09T19:26:01.000</StartTime>
+<FinishTime>2017-05-09T19:51:13.000</FinishTime>
+<Time>1512</Time>
+<TimeBehind>328</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>256498</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3370609</EntryId>
+<Person sex="M">
+<Id>116606</Id>
+<Name>
+<Family>Berglund</Family>
+<Given>Magnus</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>24</BibNumber>
+<StartTime>2017-05-09T19:31:01.000</StartTime>
+<FinishTime>2017-05-09T19:56:45.000</FinishTime>
+<Time>1544</Time>
+<TimeBehind>360</TimeBehind>
+<Position>17</Position>
+<Status>OK</Status>
+<ControlCard>7300340</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377058</EntryId>
+<Person sex="M">
+<Id>35894</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Håkan</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>15</Id>
+<Name>Norrbottens Orienteringsförbun</Name>
+<ShortName>Norrbottens Orienteringsförbun</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>8</BibNumber>
+<StartTime>2017-05-09T19:24:09.000</StartTime>
+<FinishTime>2017-05-09T19:50:03.000</FinishTime>
+<Time>1554</Time>
+<TimeBehind>370</TimeBehind>
+<Position>18</Position>
+<Status>OK</Status>
+<ControlCard>710110</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376978</EntryId>
+<Person sex="M">
+<Id>50118</Id>
+<Name>
+<Family>Perman</Family>
+<Given>Niklas</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>10</BibNumber>
+<StartTime>2017-05-09T19:36:01.000</StartTime>
+<FinishTime>2017-05-09T20:02:14.000</FinishTime>
+<Time>1573</Time>
+<TimeBehind>389</TimeBehind>
+<Position>19</Position>
+<Status>OK</Status>
+<ControlCard>680407</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3374451</EntryId>
+<Person sex="M">
+<Id>73338</Id>
+<Name>
+<Family>Borglund</Family>
+<Given>Seth</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>618</Id>
+<Name>Härnösands OK</Name>
+<ShortName>Härnösands OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>40</BibNumber>
+<StartTime>2017-05-09T19:25:02.000</StartTime>
+<FinishTime>2017-05-09T19:51:40.000</FinishTime>
+<Time>1598</Time>
+<TimeBehind>414</TimeBehind>
+<Position>20</Position>
+<Status>OK</Status>
+<ControlCard>8021018</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377946</EntryId>
+<Person sex="M">
+<Id>117514</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Fredrik</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>20</BibNumber>
+<StartTime>2017-05-09T19:15:58.000</StartTime>
+<FinishTime>2017-05-09T19:43:25.000</FinishTime>
+<Time>1647</Time>
+<TimeBehind>463</TimeBehind>
+<Position>21</Position>
+<Status>OK</Status>
+<ControlCard>7721219</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377171</EntryId>
+<Person sex="M">
+<Id>1670</Id>
+<Name>
+<Family>Hasselström</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>9</BibNumber>
+<StartTime>2017-05-09T19:14:52.000</StartTime>
+<FinishTime>2017-05-09T19:42:33.000</FinishTime>
+<Time>1661</Time>
+<TimeBehind>477</TimeBehind>
+<Position>22</Position>
+<Status>OK</Status>
+<ControlCard>700125</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3380518</EntryId>
+<Person sex="M">
+<Id>25238</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Gabriel</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>92</Id>
+<Name>Gammelstads IF</Name>
+<ShortName>Gammelstads IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>16</BibNumber>
+<StartTime>2017-05-09T19:34:02.000</StartTime>
+<FinishTime>2017-05-09T20:02:17.000</FinishTime>
+<Time>1695</Time>
+<TimeBehind>511</TimeBehind>
+<Position>23</Position>
+<Status>OK</Status>
+<ControlCard>9110200</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376285</EntryId>
+<Person sex="M">
+<Id>66760</Id>
+<Name>
+<Family>Vainionpää</Family>
+<Given>Mattias</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>31</BibNumber>
+<StartTime>2017-05-09T19:17:20.000</StartTime>
+<FinishTime>2017-05-09T19:45:57.000</FinishTime>
+<Time>1717</Time>
+<TimeBehind>533</TimeBehind>
+<Position>24</Position>
+<Status>OK</Status>
+<ControlCard>248822</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377212</EntryId>
+<Person sex="M">
+<Id>38771</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Magnus</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>14</BibNumber>
+<StartTime>2017-05-09T19:20:59.000</StartTime>
+<FinishTime>2017-05-09T19:50:53.000</FinishTime>
+<Time>1794</Time>
+<TimeBehind>610</TimeBehind>
+<Position>25</Position>
+<Status>OK</Status>
+<ControlCard>690301</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376853</EntryId>
+<Person sex="M">
+<Id>21170</Id>
+<Name>
+<Family>Daniels</Family>
+<Given>Anton</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>638</Id>
+<Name>Attunda OK</Name>
+<ShortName>Attunda OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>13</BibNumber>
+<StartTime>2017-05-09T19:29:00.000</StartTime>
+<FinishTime>2017-05-09T20:01:34.000</FinishTime>
+<Time>1954</Time>
+<TimeBehind>770</TimeBehind>
+<Position>26</Position>
+<Status>OK</Status>
+<ControlCard>950223</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>19970</Id>
+<Name>
+<Family>Tuuri</Family>
+<Given>Erik</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>123</BibNumber>
+<StartTime>2017-05-09T19:11:01.000</StartTime>
+<FinishTime>2017-05-09T19:44:23.000</FinishTime>
+<Time>2002</Time>
+<TimeBehind>818</TimeBehind>
+<Position>27</Position>
+<Status>OK</Status>
+<ControlCard>7000260</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376310</EntryId>
+<Person sex="M">
+<Id>35147</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Mattias</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>32</BibNumber>
+<StartTime>2017-05-09T19:21:59.000</StartTime>
+<FinishTime>2017-05-09T19:58:01.000</FinishTime>
+<Time>2162</Time>
+<TimeBehind>978</TimeBehind>
+<Position>28</Position>
+<Status>OK</Status>
+<ControlCard>248811</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3367574</EntryId>
+<Person sex="M">
+<Id>69418</Id>
+<Name>
+<Family>Strömbäck</Family>
+<Given>Ted</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>23</BibNumber>
+<StartTime>2017-05-09T19:35:02.000</StartTime>
+<FinishTime>2017-05-09T20:12:50.000</FinishTime>
+<Time>2268</Time>
+<TimeBehind>1084</TimeBehind>
+<Position>29</Position>
+<Status>OK</Status>
+<ControlCard>248896</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376732</EntryId>
+<Person sex="M">
+<Id>117656</Id>
+<Name>
+<Family>Bergström</Family>
+<Given>Åke</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>12</BibNumber>
+<StartTime>2017-05-09T18:56:40.000</StartTime>
+<FinishTime>2017-05-09T19:44:38.000</FinishTime>
+<Time>2878</Time>
+<TimeBehind>1694</TimeBehind>
+<Position>30</Position>
+<Status>OK</Status>
+<ControlCard>9690922</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377517</EntryId>
+<Person sex="M">
+<Id>97937</Id>
+<Name>
+<Family>Tibbelin</Family>
+<Given>Johan</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>19</BibNumber>
+<StartTime>2017-05-09T19:54:28.000</StartTime>
+<FinishTime>2017-05-09T20:43:45.000</FinishTime>
+<Time>2957</Time>
+<TimeBehind>1773</TimeBehind>
+<Position>31</Position>
+<Status>OK</Status>
+<ControlCard>8241276</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3359531</EntryId>
+<Person sex="M">
+<Id>101660</Id>
+<Name>
+<Family>Pettersson</Family>
+<Given>Jesper</Given>
+</Name>
+<BirthDate>1996-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>28</BibNumber>
+<StartTime>2017-05-09T19:33:02.000</StartTime>
+<FinishTime>2017-05-09T20:01:36.000</FinishTime>
+<Time>1714</Time>
+<TimeBehind>530</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9135246</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375137</EntryId>
+<Person sex="M">
+<Id>27390</Id>
+<Name>
+<Family>Danfors</Family>
+<Given>Ludvig</Given>
+</Name>
+<BirthDate>1994-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>263</Id>
+<Name>Mullsjö SOK</Name>
+<ShortName>Mullsjö SOK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>36</BibNumber>
+<StartTime>2017-05-09T19:28:02.000</StartTime>
+<FinishTime>2017-05-09T19:49:10.000</FinishTime>
+<Time>1268</Time>
+<TimeBehind>84</TimeBehind>
+<Status>Disqualified</Status>
+<ControlCard>256386</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376435</EntryId>
+<Person sex="M">
+<Id>74995</Id>
+<Name>
+<Family>Snell</Family>
+<Given>Tobias</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>22</BibNumber>
+<StartTime>2017-05-09T19:39:02.000</StartTime>
+<FinishTime>2017-05-09T20:02:01.000</FinishTime>
+<Time>1379</Time>
+<TimeBehind>195</TimeBehind>
+<Status>Disqualified</Status>
+<ControlCard>8480848</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M" maxAge="16">
+<Id>29</Id>
+<Name>H16</Name>
+<ShortName>H16</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>Bana 6</Name>
+<Length>2440</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3376253</EntryId>
+<Person sex="M">
+<Id>88004</Id>
+<Name>
+<Family>Fredby</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>39</BibNumber>
+<StartTime>2017-05-09T19:32:13.000</StartTime>
+<FinishTime>2017-05-09T19:57:07.000</FinishTime>
+<Time>1494</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7201139</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377302</EntryId>
+<Person sex="M">
+<Id>35255</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>38</BibNumber>
+<StartTime>2017-05-09T19:05:42.000</StartTime>
+<FinishTime>2017-05-09T19:23:12.000</FinishTime>
+<Time>1050</Time>
+<TimeBehind>-444</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>525071</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M" maxAge="14">
+<Id>30</Id>
+<Name>H14</Name>
+<ShortName>H14</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>Bana 4</Name>
+<Length>2070</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3369893</EntryId>
+<Person sex="M">
+<Id>46895</Id>
+<Name>
+<Family>Markström</Family>
+<Given>Simon</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>45</BibNumber>
+<StartTime>2017-05-09T19:18:11.000</StartTime>
+<FinishTime>2017-05-09T19:37:24.000</FinishTime>
+<Time>1153</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9664523</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3370611</EntryId>
+<Person sex="M">
+<Id>116604</Id>
+<Name>
+<Family>Berglund</Family>
+<Given>Victor</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>46</BibNumber>
+<StartTime>2017-05-09T19:30:21.000</StartTime>
+<FinishTime>2017-05-09T19:50:40.000</FinishTime>
+<Time>1219</Time>
+<TimeBehind>66</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>2800645</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377356</EntryId>
+<Person sex="M">
+<Id>88048</Id>
+<Name>
+<Family>Lundholm</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>42</BibNumber>
+<StartTime>2017-05-09T19:03:02.000</StartTime>
+<FinishTime>2017-05-09T19:29:57.000</FinishTime>
+<Time>1615</Time>
+<TimeBehind>462</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>1220404</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377545</EntryId>
+<Person sex="M">
+<Id>146287</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Anton</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>43</BibNumber>
+<StartTime>2017-05-09T19:00:48.000</StartTime>
+<FinishTime>2017-05-09T19:34:21.000</FinishTime>
+<Time>2013</Time>
+<TimeBehind>860</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2106004</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3363893</EntryId>
+<Person sex="M">
+<Id>34485</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>44</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>8040124</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3371854</EntryId>
+<Person sex="M">
+<Id>102751</Id>
+<Name>
+<Family>Eriksson</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>41</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>1709040</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M" maxAge="12">
+<Id>31</Id>
+<Name>H12</Name>
+<ShortName>H12</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>Bana 2</Name>
+<Length>1720</Length>
+<Climb>0</Climb>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3374683</EntryId>
+<Person sex="M">
+<Id>73357</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Tim</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>53</BibNumber>
+<StartTime>2017-05-09T19:00:06.000</StartTime>
+<FinishTime>2017-05-09T19:11:00.000</FinishTime>
+<Time>654</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9050310</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3363892</EntryId>
+<Person sex="M">
+<Id>34917</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Arvid</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>52</BibNumber>
+<StartTime>2017-05-09T19:03:28.000</StartTime>
+<FinishTime>2017-05-09T19:16:09.000</FinishTime>
+<Time>761</Time>
+<TimeBehind>107</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>8060302</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377460</EntryId>
+<Person sex="M">
+<Id>131008</Id>
+<Name>
+<Family>Blomqvist</Family>
+<Given>Jim</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>49</BibNumber>
+<StartTime>2017-05-09T19:01:02.000</StartTime>
+<FinishTime>2017-05-09T19:14:15.000</FinishTime>
+<Time>793</Time>
+<TimeBehind>139</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>9997997</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377169</EntryId>
+<Person sex="M">
+<Id>103009</Id>
+<Name>
+<Family>Hasselström</Family>
+<Given>Eric</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>47</BibNumber>
+<StartTime>2017-05-09T19:02:20.000</StartTime>
+<FinishTime>2017-05-09T19:16:56.000</FinishTime>
+<Time>876</Time>
+<TimeBehind>222</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7061215</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373594</EntryId>
+<Person sex="M">
+<Id>82902</Id>
+<Name>
+<Family>Wollbrand</Family>
+<Given>Albin</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>54</BibNumber>
+<StartTime>2017-05-09T18:56:59.000</StartTime>
+<FinishTime>2017-05-09T19:11:35.000</FinishTime>
+<Time>876</Time>
+<TimeBehind>222</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7050722</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377249</EntryId>
+<Person sex="M">
+<Id>102958</Id>
+<Name>
+<Family>Nordin</Family>
+<Given>Linus</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>50</BibNumber>
+<StartTime>2017-05-09T19:09:27.000</StartTime>
+<FinishTime>2017-05-09T19:25:47.000</FinishTime>
+<Time>980</Time>
+<TimeBehind>326</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>1919199</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373439</EntryId>
+<Person sex="M">
+<Id>120365</Id>
+<Name>
+<Family>Weinz</Family>
+<Given>Arvid</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>51</BibNumber>
+<StartTime>2017-05-09T18:58:02.000</StartTime>
+<FinishTime>2017-05-09T19:14:29.000</FinishTime>
+<Time>987</Time>
+<TimeBehind>333</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>9943386</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376919</EntryId>
+<Person sex="M">
+<Id>88042</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Edvin</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>48</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7055195</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M" maxAge="10">
+<Id>32</Id>
+<Name>H10</Name>
+<ShortName>H10</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>Bana 1</Name>
+<Length>1480</Length>
+<Climb>0</Climb>
+<NumberOfControls>9</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3360257</EntryId>
+<Person sex="M">
+<Id>75839</Id>
+<Name>
+<Family>Kuokkanen</Family>
+<Given>Vilgot</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>58</BibNumber>
+<StartTime>2017-05-09T19:00:35.000</StartTime>
+<FinishTime>2017-05-09T19:09:01.000</FinishTime>
+<Time>506</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1070205</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373595</EntryId>
+<Person sex="M">
+<Id>95166</Id>
+<Name>
+<Family>Wollbrand</Family>
+<Given>Melker</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>59</BibNumber>
+<StartTime>2017-05-09T18:55:56.000</StartTime>
+<FinishTime>2017-05-09T19:05:41.000</FinishTime>
+<Time>585</Time>
+<TimeBehind>79</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7070803</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376928</EntryId>
+<Person sex="M">
+<Id>104367</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>56</BibNumber>
+<StartTime>2017-05-09T19:02:54.000</StartTime>
+<FinishTime>2017-05-09T19:14:20.000</FinishTime>
+<Time>686</Time>
+<TimeBehind>180</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>435380</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376074</EntryId>
+<Person sex="M">
+<Id>117520</Id>
+<Name>
+<Family>Renberg</Family>
+<Given>Ove</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>55</BibNumber>
+<StartTime>2017-05-09T19:12:29.000</StartTime>
+<FinishTime>2017-05-09T19:24:42.000</FinishTime>
+<Time>733</Time>
+<TimeBehind>227</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7071029</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378050</EntryId>
+<Person sex="M">
+<Id>119772</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Axel</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>57</BibNumber>
+<StartTime>2017-05-09T18:56:53.000</StartTime>
+<FinishTime>2017-05-09T19:09:23.000</FinishTime>
+<Time>750</Time>
+<TimeBehind>244</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>2101794</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>75.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375394</EntryId>
+<Person sex="M">
+<Id>98947</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Emil</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>60</BibNumber>
+<StartTime>2017-05-09T18:54:58.000</StartTime>
+<FinishTime>2017-05-09T19:09:08.000</FinishTime>
+<Time>850</Time>
+<TimeBehind>344</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>2058134</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" minAge="50">
+<Id>39</Id>
+<Name>D50</Name>
+<ShortName>D50</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Bana 5</Name>
+<Length>2130</Length>
+<Climb>0</Climb>
+<NumberOfControls>15</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3376860</EntryId>
+<Person sex="F">
+<Id>22354</Id>
+<Name>
+<Family>Bergensten</Family>
+<Given>Carin</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>61</BibNumber>
+<StartTime>2017-05-09T19:23:14.000</StartTime>
+<FinishTime>2017-05-09T19:42:21.000</FinishTime>
+<Time>1147</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1201173</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3359708</EntryId>
+<Person sex="F">
+<Id>104541</Id>
+<Name>
+<Family>Nilsson</Family>
+<Given>Angela</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>337</Id>
+<Name>Skellefteå OK</Name>
+<ShortName>Skellefteå OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>63</BibNumber>
+<StartTime>2017-05-09T18:44:43.000</StartTime>
+<FinishTime>2017-05-09T19:22:54.000</FinishTime>
+<Time>2291</Time>
+<TimeBehind>1144</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>2062164</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3369896</EntryId>
+<Person sex="F">
+<Id>46908</Id>
+<Name>
+<Family>Markström</Family>
+<Given>Maria</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>64</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>2373</Time>
+<TimeBehind>1226</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>344437</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378053</EntryId>
+<Person sex="F">
+<Id>8267</Id>
+<Name>
+<Family>Brännström</Family>
+<Given>Sylvia</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>62</BibNumber>
+<StartTime>2017-05-09T19:29:58.000</StartTime>
+<FinishTime>2017-05-09T20:32:51.000</FinishTime>
+<Time>3773</Time>
+<TimeBehind>2626</TimeBehind>
+<Status>DidNotFinish</Status>
+<ControlCard>409690</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" minAge="70">
+<Id>42</Id>
+<Name>D70</Name>
+<ShortName>D70</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Bana 3</Name>
+<Length>1900</Length>
+<Climb>0</Climb>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3377390</EntryId>
+<Person sex="F">
+<Id>53924</Id>
+<Name>
+<Family>Perhult</Family>
+<Given>Ulla</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>427</Id>
+<Name>OK Vargen</Name>
+<ShortName>OK Vargen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>65</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1535</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>212550</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>47</Id>
+<Name>D21</Name>
+<ShortName>D21</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>Bana 6</Name>
+<Length>2440</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3377536</EntryId>
+<Person sex="F">
+<Id>41235</Id>
+<Name>
+<Family>Turesson</Family>
+<Given>Lena</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>71</BibNumber>
+<StartTime>2017-05-09T19:51:18.000</StartTime>
+<FinishTime>2017-05-09T20:08:20.000</FinishTime>
+<Time>1022</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>608478</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375826</EntryId>
+<Person sex="F">
+<Id>20518</Id>
+<Name>
+<Family>Westin</Family>
+<Given>Sofia</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>75</BibNumber>
+<StartTime>2017-05-09T19:13:47.000</StartTime>
+<FinishTime>2017-05-09T19:32:53.000</FinishTime>
+<Time>1146</Time>
+<TimeBehind>124</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>990122</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Christoffersson</Family>
+<Given>Elsa</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>69</BibNumber>
+<StartTime>2017-05-09T19:18:08.000</StartTime>
+<FinishTime>2017-05-09T19:37:31.000</FinishTime>
+<Time>1163</Time>
+<TimeBehind>141</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>8000329</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3374848</EntryId>
+<Person sex="F">
+<Id>11221</Id>
+<Name>
+<Family>Hylander</Family>
+<Given>Rebecka</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>285</Id>
+<Name>Nyköpings OK</Name>
+<ShortName>Nyköpings OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>76</BibNumber>
+<StartTime>2017-05-09T19:24:12.000</StartTime>
+<FinishTime>2017-05-09T19:45:14.000</FinishTime>
+<Time>1262</Time>
+<TimeBehind>240</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>8031841</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376827</EntryId>
+<Person sex="F">
+<Id>50139</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Kajsa</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>229</Id>
+<Name>OK Kåre</Name>
+<ShortName>OK Kåre</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>67</BibNumber>
+<StartTime>2017-05-09T19:25:31.000</StartTime>
+<FinishTime>2017-05-09T19:46:45.000</FinishTime>
+<Time>1274</Time>
+<TimeBehind>252</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>8190595</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373964</EntryId>
+<Person sex="F">
+<Id>24719</Id>
+<Name>
+<Family>Andersson</Family>
+<Given>Anna</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>72</BibNumber>
+<StartTime>2017-05-09T19:16:11.000</StartTime>
+<FinishTime>2017-05-09T19:37:33.000</FinishTime>
+<Time>1282</Time>
+<TimeBehind>260</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>933288</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3379463</EntryId>
+<Person sex="F">
+<Id>34700</Id>
+<Name>
+<Family>Forslund</Family>
+<Given>Elvira</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>70</BibNumber>
+<StartTime>2017-05-09T19:11:35.000</StartTime>
+<FinishTime>2017-05-09T19:35:40.000</FinishTime>
+<Time>1445</Time>
+<TimeBehind>423</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>7600076</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373963</EntryId>
+<Person sex="F">
+<Id>41253</Id>
+<Name>
+<Family>Andersson</Family>
+<Given>Susanne</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>77</BibNumber>
+<StartTime>2017-05-09T19:21:03.000</StartTime>
+<FinishTime>2017-05-09T19:46:50.000</FinishTime>
+<Time>1547</Time>
+<TimeBehind>525</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>433228</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3361758</EntryId>
+<Person sex="F">
+<Id>18264</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>73</BibNumber>
+<StartTime>2017-05-09T19:22:39.000</StartTime>
+<FinishTime>2017-05-09T19:50:30.000</FinishTime>
+<Time>1671</Time>
+<TimeBehind>649</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>730505</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377259</EntryId>
+<Person sex="F">
+<Id>55659</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Elin</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>66</BibNumber>
+<StartTime>2017-05-09T19:06:43.000</StartTime>
+<FinishTime>2017-05-09T19:34:38.000</FinishTime>
+<Time>1675</Time>
+<TimeBehind>653</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>980727</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376407</EntryId>
+<Person sex="F">
+<Id>43523</Id>
+<Name>
+<Family>Daniels</Family>
+<Given>Linnéa</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>638</Id>
+<Name>Attunda OK</Name>
+<ShortName>Attunda OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>68</BibNumber>
+<StartTime>2017-05-09T19:27:06.000</StartTime>
+<FinishTime>2017-05-09T20:01:44.000</FinishTime>
+<Time>2078</Time>
+<TimeBehind>1056</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>930911</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>53022</Id>
+<Name>
+<Family>Lundkvist</Family>
+<Given>Johanna</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>427</Id>
+<Name>OK Vargen</Name>
+<ShortName>OK Vargen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>78</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<FinishTime>2017-05-09T19:38:45.000</FinishTime>
+<Time>2325</Time>
+<TimeBehind>1303</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>989805</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>135.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3361187</EntryId>
+<Person sex="F">
+<Id>115539</Id>
+<Name>
+<Family>Hedlund</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>74</BibNumber>
+<StartTime>2017-05-09T19:14:46.000</StartTime>
+<FinishTime>2017-05-09T19:43:33.000</FinishTime>
+<Time>1727</Time>
+<TimeBehind>705</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9000608</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M" minAge="70">
+<Id>49</Id>
+<Name>H70</Name>
+<ShortName>H70</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Bana 3</Name>
+<Length>1900</Length>
+<Climb>0</Climb>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3371807</EntryId>
+<Person sex="M">
+<Id>35726</Id>
+<Name>
+<Family>Mörtberg</Family>
+<Given>Kjell</Given>
+</Name>
+<BirthDate>1945-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>79</BibNumber>
+<StartTime>2017-05-09T19:00:25.000</StartTime>
+<FinishTime>2017-05-09T19:19:11.000</FinishTime>
+<Time>1126</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9451208</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3362385</EntryId>
+<Person sex="M">
+<Id>30272</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Bo</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>470</Id>
+<Name>IK Örnen</Name>
+<ShortName>IK Örnen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>85</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1195</Time>
+<TimeBehind>69</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>28876</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3359695</EntryId>
+<Person sex="M">
+<Id>52610</Id>
+<Name>
+<Family>Marktin</Family>
+<Given>Runar</Given>
+</Name>
+<BirthDate>1938-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>433</Id>
+<Name>Vidsels IK</Name>
+<ShortName>Vidsels IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>83</BibNumber>
+<StartTime>2017-05-09T19:04:07.000</StartTime>
+<FinishTime>2017-05-09T19:25:43.000</FinishTime>
+<Time>1296</Time>
+<TimeBehind>170</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>262954</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376433</EntryId>
+<Person sex="M">
+<Id>24312</Id>
+<Name>
+<Family>Lindskog</Family>
+<Given>Stig</Given>
+</Name>
+<BirthDate>1938-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>440</Id>
+<Name>Visborgs OK</Name>
+<ShortName>Visborgs OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>81</BibNumber>
+<StartTime>2017-05-09T19:28:24.000</StartTime>
+<FinishTime>2017-05-09T19:51:30.000</FinishTime>
+<Time>1386</Time>
+<TimeBehind>260</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>10383</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3362325</EntryId>
+<Person sex="M">
+<Id>38701</Id>
+<Name>
+<Family>Eriksson</Family>
+<Given>Henken</Given>
+</Name>
+<BirthDate>1939-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>84</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1455</Time>
+<TimeBehind>329</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>208816</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3368041</EntryId>
+<Person sex="M">
+<Id>4999</Id>
+<Name>
+<Family>Grönlund</Family>
+<Given>Sven-Ivan</Given>
+</Name>
+<BirthDate>1940-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>82</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1508</Time>
+<TimeBehind>382</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>403105</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3374626</EntryId>
+<Person sex="M">
+<Id>53600</Id>
+<Name>
+<Family>Lindström</Family>
+<Given>Gunnar</Given>
+</Name>
+<BirthDate>1937-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>80</BibNumber>
+<StartTime>2017-05-09T19:26:37.000</StartTime>
+<FinishTime>2017-05-09T19:56:18.000</FinishTime>
+<Time>1781</Time>
+<TimeBehind>655</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>442221</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" maxAge="16">
+<Id>54</Id>
+<Name>D16</Name>
+<ShortName>D16</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Bana 5</Name>
+<Length>2130</Length>
+<Climb>0</Climb>
+<NumberOfControls>15</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3374684</EntryId>
+<Person sex="F">
+<Id>73356</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Hanna</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>86</BibNumber>
+<StartTime>2017-05-09T19:08:40.000</StartTime>
+<FinishTime>2017-05-09T19:24:02.000</FinishTime>
+<Time>922</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9020716</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3361756</EntryId>
+<Person sex="F">
+<Id>18269</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Agnes</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>88</BibNumber>
+<StartTime>2017-05-09T19:22:55.000</StartTime>
+<FinishTime>2017-05-09T19:42:24.000</FinishTime>
+<Time>1169</Time>
+<TimeBehind>247</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7003055</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3366560</EntryId>
+<Person sex="F">
+<Id>116538</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Emmie</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>89</BibNumber>
+<StartTime>2017-05-09T19:03:08.000</StartTime>
+<FinishTime>2017-05-09T19:31:44.000</FinishTime>
+<Time>1716</Time>
+<TimeBehind>794</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>2088590</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3375393</EntryId>
+<Person sex="F">
+<Id>98946</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Moa</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>87</BibNumber>
+<StartTime>2017-05-09T19:04:01.000</StartTime>
+<FinishTime>2017-05-09T19:35:06.000</FinishTime>
+<Time>1865</Time>
+<TimeBehind>943</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>9020809</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" maxAge="14">
+<Id>55</Id>
+<Name>D14</Name>
+<ShortName>D14</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>Bana 4</Name>
+<Length>2070</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3378468</EntryId>
+<Person sex="F">
+<Id>76909</Id>
+<Name>
+<Family>Kivijärvi</Family>
+<Given>Klara</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>91</BibNumber>
+<StartTime>2017-05-09T19:14:23.000</StartTime>
+<FinishTime>2017-05-09T19:34:59.000</FinishTime>
+<Time>1236</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>452050</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>75.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377543</EntryId>
+<Person sex="F">
+<Id>46938</Id>
+<Name>
+<Family>Turesson</Family>
+<Given>Ella</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>90</BibNumber>
+<StartTime>2017-05-09T19:48:52.000</StartTime>
+<FinishTime>2017-05-09T20:12:08.000</FinishTime>
+<Time>1396</Time>
+<TimeBehind>160</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9041215</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3361757</EntryId>
+<Person sex="F">
+<Id>29728</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Edit</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>92</BibNumber>
+<StartTime>2017-05-09T19:16:43.000</StartTime>
+<FinishTime>2017-05-09T19:42:14.000</FinishTime>
+<Time>1531</Time>
+<TimeBehind>295</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7000266</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376926</EntryId>
+<Person sex="F">
+<Id>104366</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Lisa</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>93</BibNumber>
+<StartTime>2017-05-09T19:06:45.000</StartTime>
+<FinishTime>2017-05-09T19:32:27.000</FinishTime>
+<Time>1542</Time>
+<TimeBehind>306</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7000288</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" maxAge="12">
+<Id>56</Id>
+<Name>D12</Name>
+<ShortName>D12</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>Bana 2</Name>
+<Length>1720</Length>
+<Climb>0</Climb>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3366561</EntryId>
+<Person sex="F">
+<Id>102668</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Tova</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>97</BibNumber>
+<StartTime>2017-05-09T19:05:48.000</StartTime>
+<FinishTime>2017-05-09T19:18:30.000</FinishTime>
+<Time>762</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>2060863</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377170</EntryId>
+<Person sex="F">
+<Id>102788</Id>
+<Name>
+<Family>Hasselström</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>96</BibNumber>
+<StartTime>2017-05-09T19:04:41.000</StartTime>
+<FinishTime>2017-05-09T19:18:33.000</FinishTime>
+<Time>832</Time>
+<TimeBehind>70</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7050710</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3369894</EntryId>
+<Person sex="F">
+<Id>94668</Id>
+<Name>
+<Family>Markström</Family>
+<Given>Sofia</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>98</BibNumber>
+<StartTime>2017-05-09T18:55:19.000</StartTime>
+<FinishTime>2017-05-09T19:13:33.000</FinishTime>
+<Time>1094</Time>
+<TimeBehind>332</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>9842964</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378051</EntryId>
+<Person sex="F">
+<Id>105217</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Alva</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>95</BibNumber>
+<StartTime>2017-05-09T18:56:09.000</StartTime>
+<FinishTime>2017-05-09T19:14:25.000</FinishTime>
+<Time>1096</Time>
+<TimeBehind>334</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2101599</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>75.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377303</EntryId>
+<Person sex="F">
+<Id>34047</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Moa</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>94</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1446</Time>
+<TimeBehind>684</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>249435</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F" maxAge="10">
+<Id>57</Id>
+<Name>D10</Name>
+<ShortName>D10</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>50.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>Bana 1</Name>
+<Length>1480</Length>
+<Climb>0</Climb>
+<NumberOfControls>9</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3377537</EntryId>
+<Person sex="F">
+<Id>46941</Id>
+<Name>
+<Family>Turesson</Family>
+<Given>Minna</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>99</BibNumber>
+<StartTime>2017-05-09T19:26:56.000</StartTime>
+<FinishTime>2017-05-09T19:35:29.000</FinishTime>
+<Time>513</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9070126</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3364580</EntryId>
+<Person sex="F">
+<Id>105485</Id>
+<Name>
+<Family>Holmberg</Family>
+<Given>Tova</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>101</BibNumber>
+<StartTime>2017-05-09T19:11:02.000</StartTime>
+<FinishTime>2017-05-09T19:22:14.000</FinishTime>
+<Time>672</Time>
+<TimeBehind>159</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1071028</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377947</EntryId>
+<Person sex="F">
+<Id>117515</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Vilda</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>100</BibNumber>
+<StartTime>2017-05-09T19:06:50.000</StartTime>
+<FinishTime>2017-05-09T19:21:13.000</FinishTime>
+<Time>863</Time>
+<TimeBehind>350</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7070927</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>75.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376920</EntryId>
+<Person sex="F">
+<Id>102170</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Astrid</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>102</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7055194</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>94</Id>
+<Name>Öppen motion 1</Name>
+<ShortName>ÖM1</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>50.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>Bana 1</Name>
+<Length>1480</Length>
+<Climb>0</Climb>
+<NumberOfControls>9</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3377464</EntryId>
+<Person sex="F">
+<Id>131006</Id>
+<Name>
+<Family>Blomqvist</Family>
+<Given>My</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>113</BibNumber>
+<StartTime>2017-05-09T19:05:12.000</StartTime>
+<FinishTime>2017-05-09T19:14:45.000</FinishTime>
+<Time>573</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9998998</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376936</EntryId>
+<Person sex="F">
+<Id>132507</Id>
+<Name>
+<Family>Höglund</Family>
+<Given>Emilia</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>104</BibNumber>
+<StartTime>2017-05-09T19:03:32.000</StartTime>
+<FinishTime>2017-05-09T19:14:21.000</FinishTime>
+<Time>649</Time>
+<TimeBehind>76</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7003085</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lundholm</Family>
+<Given>Emilia</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>122</BibNumber>
+<StartTime>2017-05-09T19:02:08.000</StartTime>
+<FinishTime>2017-05-09T19:13:07.000</FinishTime>
+<Time>659</Time>
+<TimeBehind>86</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>1051203</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3360258</EntryId>
+<Person sex="F">
+<Id>75840</Id>
+<Name>
+<Family>Kuokkanen</Family>
+<Given>Vilma</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>111</BibNumber>
+<StartTime>2017-05-09T18:57:41.000</StartTime>
+<FinishTime>2017-05-09T19:11:12.000</FinishTime>
+<Time>811</Time>
+<TimeBehind>238</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>1090306</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3363894</EntryId>
+<Person sex="F">
+<Id>61003</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Irma</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>109</BibNumber>
+<StartTime>2017-05-09T19:08:12.000</StartTime>
+<FinishTime>2017-05-09T19:22:24.000</FinishTime>
+<Time>852</Time>
+<TimeBehind>279</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>9752354</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Kronholm</Family>
+<Given>Ivar</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>127</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1023</Time>
+<TimeBehind>450</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>256378</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>84496</Id>
+<Name>
+<Family>Koivumaa</Family>
+<Given>Alice</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>132</BibNumber>
+<StartTime>2017-05-09T00:00:00.000</StartTime>
+<FinishTime>2017-05-09T00:00:00.000</FinishTime>
+<Time>1036</Time>
+<TimeBehind>463</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>256385</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376948</EntryId>
+<Person sex="F">
+<Id>136705</Id>
+<Name>
+<Family>Isaksson</Family>
+<Given>Alva</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>106</BibNumber>
+<StartTime>2017-05-09T19:04:18.000</StartTime>
+<FinishTime>2017-05-09T19:24:37.000</FinishTime>
+<Time>1219</Time>
+<TimeBehind>646</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>7003063</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3377948</EntryId>
+<Person sex="F">
+<Id>131450</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Tuva</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>105</BibNumber>
+<StartTime>2017-05-09T19:07:42.000</StartTime>
+<FinishTime>2017-05-09T19:28:27.000</FinishTime>
+<Time>1245</Time>
+<TimeBehind>672</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>7100825</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>139807</Id>
+<Name>
+<Family>Berggren</Family>
+<Given>Albin</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>135</BibNumber>
+<StartTime>2017-05-09T19:09:59.000</StartTime>
+<FinishTime>2017-05-09T19:32:01.000</FinishTime>
+<Time>1322</Time>
+<TimeBehind>749</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>791229</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373094</EntryId>
+<Person sex="F">
+<Id>116543</Id>
+<Name>
+<Family>Edeskär</Family>
+<Given>Vera</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>110</BibNumber>
+<StartTime>2017-05-09T19:01:22.000</StartTime>
+<FinishTime>2017-05-09T19:23:42.000</FinishTime>
+<Time>1340</Time>
+<TimeBehind>767</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>1080625</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Granström</Family>
+<Given>Vide</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>146</BibNumber>
+<StartTime>2017-05-09T19:22:09.000</StartTime>
+<FinishTime>2017-05-09T19:53:08.000</FinishTime>
+<Time>1859</Time>
+<TimeBehind>1286</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>256394</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>131006</Id>
+<Name>
+<Family>Granström</Family>
+<Given>Linnea</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>145</BibNumber>
+<StartTime>2017-05-09T19:22:13.000</StartTime>
+<FinishTime>2017-05-09T19:53:13.000</FinishTime>
+<Time>1860</Time>
+<TimeBehind>1287</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>243850</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376942</EntryId>
+<Person sex="F">
+<Id>119505</Id>
+<Name>
+<Family>Nygren</Family>
+<Given>Tilde</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>103</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3373441</EntryId>
+<Person sex="F">
+<Id>143417</Id>
+<Name>
+<Family>Weinz</Family>
+<Given>Märta</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>107</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>9494864</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3364579</EntryId>
+<Person sex="M">
+<Id>115648</Id>
+<Name>
+<Family>Holmberg</Family>
+<Given>Knut</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>108</BibNumber>
+<StartTime>2017-05-09T19:00:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>1100718</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>50.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>97</Id>
+<Name>Öppen motion 4</Name>
+<ShortName>ÖM4</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>50.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Bana 3</Name>
+<Length>1900</Length>
+<Climb>0</Climb>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>103483</Id>
+<Name>
+<Family>Eriksson</Family>
+<Given>Lovisa</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>131</BibNumber>
+<StartTime>2017-05-09T19:14:17.000</StartTime>
+<FinishTime>2017-05-09T19:30:04.000</FinishTime>
+<Time>947</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>2075119</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Persson</Family>
+<Given>Rebecka</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2306</Id>
+<Name>Luleå Gjutarens IF</Name>
+<ShortName>Luleå Gjutarens IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>130</BibNumber>
+<StartTime>2017-05-09T19:05:50.000</StartTime>
+<FinishTime>2017-05-09T19:23:50.000</FinishTime>
+<Time>1080</Time>
+<TimeBehind>133</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>435396</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Johansson</Family>
+<Given>Anders</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>120</BibNumber>
+<StartTime>2017-05-09T19:07:45.000</StartTime>
+<FinishTime>2017-05-09T19:26:28.000</FinishTime>
+<Time>1123</Time>
+<TimeBehind>176</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>2101780</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Gustavsson</Family>
+<Given>Emma</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>125</BibNumber>
+<StartTime>2017-05-09T19:05:49.000</StartTime>
+<FinishTime>2017-05-09T19:24:36.000</FinishTime>
+<Time>1127</Time>
+<TimeBehind>180</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>435397</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Nykäinen</Family>
+<Given>Ellen</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>292</Id>
+<Name>Pajala IF</Name>
+<ShortName>Pajala IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>128</BibNumber>
+<StartTime>2017-05-09T19:04:48.000</StartTime>
+<FinishTime>2017-05-09T19:23:47.000</FinishTime>
+<Time>1139</Time>
+<TimeBehind>192</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>435395</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>14508</Id>
+<Name>
+<Family>Riekkola</Family>
+<Given>Emilia</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1397</Id>
+<Name>Sävast Ski Team IF</Name>
+<ShortName>Sävast Ski Team IF</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>126</BibNumber>
+<StartTime>2017-05-09T19:04:47.000</StartTime>
+<FinishTime>2017-05-09T19:23:49.000</FinishTime>
+<Time>1142</Time>
+<TimeBehind>195</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>435398</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Engström</Family>
+<Given>Anna</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>121</BibNumber>
+<StartTime>2017-05-09T19:05:29.000</StartTime>
+<FinishTime>2017-05-09T19:26:48.000</FinishTime>
+<Time>1279</Time>
+<TimeBehind>332</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>2101597</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lundholm</Family>
+<Given>Daniel</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>139</BibNumber>
+<StartTime>2017-05-09T19:07:15.000</StartTime>
+<FinishTime>2017-05-09T19:30:37.000</FinishTime>
+<Time>1402</Time>
+<TimeBehind>455</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>437501</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3366559</EntryId>
+<Person sex="F">
+<Id>116541</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Agneta</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>114</BibNumber>
+<StartTime>2017-05-09T18:58:44.000</StartTime>
+<FinishTime>2017-05-09T19:25:33.000</FinishTime>
+<Time>1609</Time>
+<TimeBehind>662</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>1403974</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>36285</Id>
+<Name>
+<Family>Djurberg</Family>
+<Given>Elin</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>147</BibNumber>
+<StartTime>2017-05-09T19:46:24.000</StartTime>
+<FinishTime>2017-05-09T20:15:33.000</FinishTime>
+<Time>1749</Time>
+<TimeBehind>802</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>19386</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376494</EntryId>
+<Person sex="M">
+<Id>120400</Id>
+<Name>
+<Family>Pilstål</Family>
+<Given>Henry</Given>
+</Name>
+<BirthDate>1951-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>112</BibNumber>
+<StartTime>2017-05-09T19:03:06.000</StartTime>
+<FinishTime>2017-05-09T19:32:42.000</FinishTime>
+<Time>1776</Time>
+<TimeBehind>829</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>9201631</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376252</EntryId>
+<Person sex="F">
+<Id>116234</Id>
+<Name>
+<Family>Fredby</Family>
+<Given>Åsa</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>115</BibNumber>
+<StartTime>2017-05-09T19:13:55.000</StartTime>
+<FinishTime>2017-05-09T19:45:28.000</FinishTime>
+<Time>1893</Time>
+<TimeBehind>946</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>7204917</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Odevik</Family>
+<Given>William</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2870</Id>
+<Name>Mitt Livs StiL OK</Name>
+<ShortName>Mitt Livs StiL OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>142</BibNumber>
+<StartTime>2017-05-09T19:26:44.000</StartTime>
+<FinishTime>2017-05-09T20:02:42.000</FinishTime>
+<Time>2158</Time>
+<TimeBehind>1211</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>249389</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>22378</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Clas-Göran</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>133</BibNumber>
+<StartTime>2017-05-09T19:08:21.000</StartTime>
+<FinishTime>2017-05-09T19:25:00.000</FinishTime>
+<Time>999</Time>
+<TimeBehind>52</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9470909</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>101</Id>
+<Name>Öppen motion 8</Name>
+<ShortName>ÖM8</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>90.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>50.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9007</Id>
+<Name>Bana 7</Name>
+<Length>3340</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>17081</Id>
+<Name>
+<Family>Bennitz</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1979-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>137</BibNumber>
+<StartTime>2017-05-09T19:51:41.000</StartTime>
+<FinishTime>2017-05-09T20:12:21.000</FinishTime>
+<Time>1240</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7791229</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3376918</EntryId>
+<Person sex="M">
+<Id>102166</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Henrik</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>117</BibNumber>
+<StartTime>2017-05-09T19:23:23.000</StartTime>
+<FinishTime>2017-05-09T19:50:06.000</FinishTime>
+<Time>1603</Time>
+<TimeBehind>363</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7055196</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lernstål</Family>
+<Given>Fredrik</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>144</BibNumber>
+<StartTime>2017-05-09T19:15:04.000</StartTime>
+<FinishTime>2017-05-09T19:42:28.000</FinishTime>
+<Time>1644</Time>
+<TimeBehind>404</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>441502</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>26997</Id>
+<Name>
+<Family>Lundstedt</Family>
+<Given>Richard</Given>
+</Name>
+<BirthDate>1995-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>263</Id>
+<Name>Mullsjö SOK</Name>
+<ShortName>Mullsjö SOK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>134</BibNumber>
+<StartTime>2017-05-09T19:08:43.000</StartTime>
+<FinishTime>2017-05-09T19:39:22.000</FinishTime>
+<Time>1839</Time>
+<TimeBehind>599</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>955397</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>14434</Id>
+<Name>
+<Family>Norén</Family>
+<Given>Petter</Given>
+</Name>
+<BirthDate>1990-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>138</BibNumber>
+<StartTime>2017-05-09T19:05:45.000</StartTime>
+<FinishTime>2017-05-09T19:37:04.000</FinishTime>
+<Time>1879</Time>
+<TimeBehind>639</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>7000294</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lundberg</Family>
+<Given>Peter</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>118</BibNumber>
+<StartTime>2017-05-09T18:59:29.000</StartTime>
+<FinishTime>2017-05-09T19:31:56.000</FinishTime>
+<Time>1947</Time>
+<TimeBehind>707</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>2059100</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>103481</Id>
+<Name>
+<Family>Eriksson</Family>
+<Given>Patrik</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>129</BibNumber>
+<StartTime>2017-05-09T18:58:38.000</StartTime>
+<FinishTime>2017-05-09T19:34:11.000</FinishTime>
+<Time>2133</Time>
+<TimeBehind>893</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>2087112</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lissbers</Family>
+<Given>Isak</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2870</Id>
+<Name>Mitt Livs StiL OK</Name>
+<ShortName>Mitt Livs StiL OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>140</BibNumber>
+<StartTime>2017-05-09T19:20:00.000</StartTime>
+<FinishTime>2017-05-09T19:57:18.000</FinishTime>
+<Time>2238</Time>
+<TimeBehind>998</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>231354</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3378046</EntryId>
+<Person sex="M">
+<Id>100788</Id>
+<Name>
+<Family>Brännström</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>116</BibNumber>
+<StartTime>2017-05-09T19:30:04.000</StartTime>
+<FinishTime>2017-05-09T20:07:28.000</FinishTime>
+<Time>2244</Time>
+<TimeBehind>1004</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>409691</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lernstål</Family>
+<Given>Ellinor</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>143</BibNumber>
+<StartTime>2017-05-09T19:15:37.000</StartTime>
+<FinishTime>2017-05-09T19:53:27.000</FinishTime>
+<Time>2270</Time>
+<TimeBehind>1030</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>441539</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Johansson</Family>
+<Given>Emma</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2870</Id>
+<Name>Mitt Livs StiL OK</Name>
+<ShortName>Mitt Livs StiL OK</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>141</BibNumber>
+<StartTime>2017-05-09T19:20:46.000</StartTime>
+<FinishTime>2017-05-09T19:59:54.000</FinishTime>
+<Time>2348</Time>
+<TimeBehind>1108</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>212565</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Lundberg</Family>
+<Given>Linda</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>119</BibNumber>
+<StartTime>2017-05-09T18:57:08.000</StartTime>
+<FinishTime>2017-05-09T19:45:31.000</FinishTime>
+<Time>2903</Time>
+<TimeBehind>1663</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>2058209</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>124252</Id>
+<Name>
+<Family>Berggren</Family>
+<Given>Karolina</Given>
+</Name>
+<BirthDate>1978-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>136</BibNumber>
+<StartTime>2017-05-09T19:07:11.000</StartTime>
+<FinishTime>2017-05-09T19:45:18.000</FinishTime>
+<Time>2287</Time>
+<TimeBehind>1047</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>7780826</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>90.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+</ResultList>
