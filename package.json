@@ -15,7 +15,7 @@
     "gh-pages": "^1.1.0",
     "react-scripts": "0.9.5"
   },
-  "homepage": "http://raubas.github.io/sprintcup",
+  "homepage": "http://raubas.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

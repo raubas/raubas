@@ -36,13 +36,10 @@ const START_TIMES = {
   'D14': moment('2017-05-20 19:40'),
   'D12': moment('2017-05-20 19:10'),
   'D10': moment('2017-05-20 19:20'),
-  'ÖM1': moment('2017-05-20 19:00'),
-  'ÖM4': moment('2017-05-20 19:00'),
-  'ÖM8': moment('2017-05-20 19:00'),
+  '�M1': moment('2017-05-20 19:00'),
+  '�M4': moment('2017-05-20 19:00'),
+  '�M8': moment('2017-05-20 19:00'),
 }
-// '�M1': moment('2017-05-20 19:00'),
-// '�M4': moment('2017-05-20 19:00'),
-// '�M8': moment('2017-05-20 19:00'),
 
 const sortRes = (prop, arr) => {
     arr.sort(function (a, b) {
@@ -84,7 +81,7 @@ const Person = ({name, results, score, index, klass}) => {
 }
 
 const KlassStartlista = ({klass, personer}) => {
-  if (klass === 'ÖM1' || klass === 'ÖM4' || klass === 'ÖM8') {
+  if (klass === '�M1' || klass === '�M4' || klass === '�M8') {
     return(
       null
     )
