@@ -1,0 +1,5950 @@
+<?xml version="1.0" encoding="windows-1252"?>
+ <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2019-05-06T20:15:20.621"
+ creator="SportSoftware OE2010 V.11.0">
+<Event>
+<Name>SprintCup1 2019</Name>
+</Event>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" minAge="50">
+<Id>14</Id>
+<Name>H50</Name>
+<ShortName>H50</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>H14, D16, H50</Name>
+<Length>2020</Length>
+<Climb>0</Climb>
+<NumberOfControls>14</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3931878</EntryId>
+<Person sex="M">
+<Id>13730</Id>
+<Name>
+<Family>Westin</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:42:46.000</StartTime>
+<FinishTime>2019-04-29T18:54:56.000</FinishTime>
+<Time>730</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>650207</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930876</EntryId>
+<Person sex="M">
+<Id>36528</Id>
+<Name>
+<Family>Ögren</Family>
+<Given>Per</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:14:26.000</StartTime>
+<FinishTime>2019-04-29T19:27:22.000</FinishTime>
+<Time>776</Time>
+<TimeBehind>46</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7970128</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927250</EntryId>
+<Person sex="M">
+<Id>50118</Id>
+<Name>
+<Family>Perman</Family>
+<Given>Niklas</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:31:45.000</StartTime>
+<FinishTime>2019-04-29T18:45:01.000</FinishTime>
+<Time>796</Time>
+<TimeBehind>66</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>680407</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925253</EntryId>
+<Person sex="M">
+<Id>73358</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:47:42.000</StartTime>
+<FinishTime>2019-04-29T19:01:31.000</FinishTime>
+<Time>829</Time>
+<TimeBehind>99</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2059100</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919436</EntryId>
+<Person sex="M">
+<Id>115540</Id>
+<Name>
+<Family>Hedlund</Family>
+<Given>Jonas</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:49:43.000</StartTime>
+<FinishTime>2019-04-29T19:04:49.000</FinishTime>
+<Time>906</Time>
+<TimeBehind>176</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>9690728</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929355</EntryId>
+<Person sex="M">
+<Id>22931</Id>
+<Name>
+<Family>Norén</Family>
+<Given>Sture</Given>
+</Name>
+<BirthDate>1958-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:17:42.000</StartTime>
+<FinishTime>2019-04-29T19:33:21.000</FinishTime>
+<Time>939</Time>
+<TimeBehind>209</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>9580322</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930941</EntryId>
+<Person sex="M">
+<Id>15966</Id>
+<Name>
+<Family>Holmgren</Family>
+<Given>Richard</Given>
+</Name>
+<BirthDate>1959-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:04.000</StartTime>
+<FinishTime>2019-04-29T18:51:01.000</FinishTime>
+<Time>957</Time>
+<TimeBehind>227</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>590406</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930407</EntryId>
+<Person sex="M">
+<Id>102957</Id>
+<Name>
+<Family>Nordin</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:06:06.000</StartTime>
+<FinishTime>2019-04-29T19:22:08.000</FinishTime>
+<Time>962</Time>
+<TimeBehind>232</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>7681030</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930780</EntryId>
+<Person sex="M">
+<Id>41259</Id>
+<Name>
+<Family>Granberg</Family>
+<Given>Magnus</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:43:43.000</StartTime>
+<FinishTime>2019-04-29T18:59:59.000</FinishTime>
+<Time>976</Time>
+<TimeBehind>246</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>445536</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3921997</EntryId>
+<Person sex="M">
+<Id>30270</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Karl-Erik</Given>
+</Name>
+<BirthDate>1957-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:11:42.000</StartTime>
+<FinishTime>2019-04-29T19:28:04.000</FinishTime>
+<Time>982</Time>
+<TimeBehind>252</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>408999</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925666</EntryId>
+<Person sex="M">
+<Id>15470</Id>
+<Name>
+<Family>Drugge</Family>
+<Given>Mats</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:46.000</StartTime>
+<FinishTime>2019-04-29T18:58:21.000</FinishTime>
+<Time>995</Time>
+<TimeBehind>265</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>9650820</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3918784</EntryId>
+<Person sex="M">
+<Id>21760</Id>
+<Name>
+<Family>Engvall</Family>
+<Given>Matts</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:48:42.000</StartTime>
+<FinishTime>2019-04-29T19:06:00.000</FinishTime>
+<Time>1038</Time>
+<TimeBehind>308</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>8470623</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926371</EntryId>
+<Person sex="M">
+<Id>45638</Id>
+<Name>
+<Family>Sandström</Family>
+<Given>Kjell</Given>
+</Name>
+<BirthDate>1950-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:56:43.000</StartTime>
+<FinishTime>2019-04-29T19:14:25.000</FinishTime>
+<Time>1062</Time>
+<TimeBehind>332</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>8069091</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3931371</EntryId>
+<Person sex="M">
+<Id>14861</Id>
+<Name>
+<Family>Rosendahl</Family>
+<Given>Krister</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:39:04.000</StartTime>
+<FinishTime>2019-04-29T18:57:17.000</FinishTime>
+<Time>1093</Time>
+<TimeBehind>363</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>630104</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927915</EntryId>
+<Person sex="M">
+<Id>131117</Id>
+<Name>
+<Family>Hörnquist</Family>
+<Given>Mikael</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:55.000</StartTime>
+<FinishTime>2019-04-29T18:54:34.000</FinishTime>
+<Time>1119</Time>
+<TimeBehind>389</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>8270767</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925219</EntryId>
+<Person sex="M">
+<Id>22671</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Torbjörn</Given>
+</Name>
+<BirthDate>1952-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:55:46.000</StartTime>
+<FinishTime>2019-04-29T19:14:32.000</FinishTime>
+<Time>1126</Time>
+<TimeBehind>396</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>1520826</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924156</EntryId>
+<Person sex="M">
+<Id>19628</Id>
+<Name>
+<Family>Jansson</Family>
+<Given>Roland</Given>
+</Name>
+<BirthDate>1952-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:51:01.000</StartTime>
+<FinishTime>2019-04-29T19:10:14.000</FinishTime>
+<Time>1153</Time>
+<TimeBehind>423</TimeBehind>
+<Position>17</Position>
+<Status>OK</Status>
+<ControlCard>8050426</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930395</EntryId>
+<Person sex="M">
+<Id>94590</Id>
+<Name>
+<Family>Gren</Family>
+<Given>Lars</Given>
+</Name>
+<BirthDate>1961-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>192</Id>
+<Name>Jokkmokks SK</Name>
+<ShortName>Jokkmokks SK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:43:10.000</StartTime>
+<FinishTime>2019-04-29T19:02:52.000</FinishTime>
+<Time>1182</Time>
+<TimeBehind>452</TimeBehind>
+<Position>18</Position>
+<Status>OK</Status>
+<ControlCard>437531</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928318</EntryId>
+<Person sex="M">
+<Id>11646</Id>
+<Name>
+<Family>Bergman</Family>
+<Given>Alf</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:37:58.000</StartTime>
+<FinishTime>2019-04-29T18:57:27.000</FinishTime>
+<Time>1169</Time>
+<TimeBehind>439</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>334300</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919507</EntryId>
+<Person sex="M">
+<Id>25717</Id>
+<Name>
+<Family>Örnerling</Family>
+<Given>Sven</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:05:18.000</StartTime>
+<Status>DidNotFinish</Status>
+<ControlCard>9915140</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926690</EntryId>
+<Person sex="M">
+<Id>120400</Id>
+<Name>
+<Family>Pilstål</Family>
+<Given>Henry</Given>
+</Name>
+<BirthDate>1951-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>9201631</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926944</EntryId>
+<Person sex="M">
+<Id>101487</Id>
+<Name>
+<Family>Samuelsson</Family>
+<Given>Björn</Given>
+</Name>
+<BirthDate>1961-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>2109268</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M">
+<Id>22</Id>
+<Name>H21</Name>
+<ShortName>H21</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>H21, Ö8</Name>
+<Length>2870</Length>
+<Climb>0</Climb>
+<NumberOfControls>20</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3928401</EntryId>
+<Person sex="M">
+<Id>179597</Id>
+<Name>
+<Family>Granström</Family>
+<Given>Eric</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:09:52.000</StartTime>
+<FinishTime>2019-04-29T19:26:44.000</FinishTime>
+<Time>1012</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>900410</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919229</EntryId>
+<Person sex="M">
+<Id>156795</Id>
+<Name>
+<Family>Lindehag</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:18:21.000</StartTime>
+<FinishTime>2019-04-29T19:36:37.000</FinishTime>
+<Time>1096</Time>
+<TimeBehind>84</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1960511</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926672</EntryId>
+<Person sex="M">
+<Id>27390</Id>
+<Name>
+<Family>Danfors</Family>
+<Given>Ludvig</Given>
+</Name>
+<BirthDate>1994-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>263</Id>
+<Name>Mullsjö SOK</Name>
+<ShortName>Mullsjö SOK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:53:42.000</StartTime>
+<FinishTime>2019-04-29T19:12:13.000</FinishTime>
+<Time>1111</Time>
+<TimeBehind>99</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7871889</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925824</EntryId>
+<Person sex="M">
+<Id>44702</Id>
+<Name>
+<Family>Ståhl</Family>
+<Given>Joakim</Given>
+</Name>
+<BirthDate>1997-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>197</Id>
+<Name>Järbo OK</Name>
+<ShortName>Järbo OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:51:51.000</StartTime>
+<FinishTime>2019-04-29T19:10:32.000</FinishTime>
+<Time>1121</Time>
+<TimeBehind>109</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>353038</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929217</EntryId>
+<Person sex="M">
+<Id>77328</Id>
+<Name>
+<Family>Strömberg</Family>
+<Given>Kent</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>610</Id>
+<Name>OK Roxen</Name>
+<ShortName>OK Roxen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:52:43.000</StartTime>
+<FinishTime>2019-04-29T19:12:00.000</FinishTime>
+<Time>1157</Time>
+<TimeBehind>145</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>452656</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919027</EntryId>
+<Person sex="M">
+<Id>20120</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Fredrik</Given>
+</Name>
+<BirthDate>1978-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:08:39.000</StartTime>
+<FinishTime>2019-04-29T19:27:57.000</FinishTime>
+<Time>1158</Time>
+<TimeBehind>146</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>8348882</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929562</EntryId>
+<Person sex="M">
+<Id>9684</Id>
+<Name>
+<Family>Sandberg</Family>
+<Given>Robert</Given>
+</Name>
+<BirthDate>1991-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>570</Id>
+<Name>OK Roslagen</Name>
+<ShortName>OK Roslagen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:42:44.000</StartTime>
+<FinishTime>2019-04-29T19:02:21.000</FinishTime>
+<Time>1177</Time>
+<TimeBehind>165</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>8150491</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3931668</EntryId>
+<Person sex="M">
+<Id>74993</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Thomas</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:55:42.000</StartTime>
+<FinishTime>2019-04-29T19:15:25.000</FinishTime>
+<Time>1183</Time>
+<TimeBehind>171</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>8380838</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924714</EntryId>
+<Person sex="M">
+<Id>130544</Id>
+<Name>
+<Family>Lundström</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:10:42.000</StartTime>
+<FinishTime>2019-04-29T19:31:47.000</FinishTime>
+<Time>1265</Time>
+<TimeBehind>253</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>1098762</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930342</EntryId>
+<Person sex="M">
+<Id>35255</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:43.000</StartTime>
+<FinishTime>2019-04-29T19:02:14.000</FinishTime>
+<Time>1291</Time>
+<TimeBehind>279</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>525071</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929330</EntryId>
+<Person sex="M">
+<Id>66760</Id>
+<Name>
+<Family>Vainionpää</Family>
+<Given>Mattias</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:39:42.000</StartTime>
+<FinishTime>2019-04-29T19:01:17.000</FinishTime>
+<Time>1295</Time>
+<TimeBehind>283</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>248822</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924099</EntryId>
+<Person sex="M">
+<Id>35894</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Håkan</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:07:45.000</StartTime>
+<FinishTime>2019-04-29T19:29:45.000</FinishTime>
+<Time>1320</Time>
+<TimeBehind>308</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>710110</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929230</EntryId>
+<Person sex="M">
+<Id>26257</Id>
+<Name>
+<Family>Lidman</Family>
+<Given>Anders</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:14:02.000</StartTime>
+<FinishTime>2019-04-29T19:36:05.000</FinishTime>
+<Time>1323</Time>
+<TimeBehind>311</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>437529</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927711</EntryId>
+<Person sex="M">
+<Id>1670</Id>
+<Name>
+<Family>Hasselström</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:02:46.000</StartTime>
+<FinishTime>2019-04-29T19:24:57.000</FinishTime>
+<Time>1331</Time>
+<TimeBehind>319</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>700125</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919863</EntryId>
+<Person sex="M">
+<Id>2373</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Mattias</Given>
+</Name>
+<BirthDate>1990-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>549</Id>
+<Name>Umeå OK</Name>
+<ShortName>Umeå OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:12:43.000</StartTime>
+<FinishTime>2019-04-29T19:34:57.000</FinishTime>
+<Time>1334</Time>
+<TimeBehind>322</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>8100490</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928365</EntryId>
+<Person sex="M">
+<Id>11655</Id>
+<Name>
+<Family>Bergman</Family>
+<Given>Johan</Given>
+</Name>
+<BirthDate>1992-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:38:42.000</StartTime>
+<FinishTime>2019-04-29T19:01:13.000</FinishTime>
+<Time>1351</Time>
+<TimeBehind>339</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>921012</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929124</EntryId>
+<Person sex="M">
+<Id>38771</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Magnus</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>174</Id>
+<Name>I 19 IF</Name>
+<ShortName>I 19 IF</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:34:15.000</StartTime>
+<FinishTime>2019-04-29T18:56:46.000</FinishTime>
+<Time>1351</Time>
+<TimeBehind>339</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>690301</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929895</EntryId>
+<Person sex="M">
+<Id>15512</Id>
+<Name>
+<Family>Winkler</Family>
+<Given>Mårten</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>252</Id>
+<Name>Strängnäs-Malmby OL</Name>
+<ShortName>Strängnäs-Malmby OL</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:54:42.000</StartTime>
+<FinishTime>2019-04-29T19:17:57.000</FinishTime>
+<Time>1395</Time>
+<TimeBehind>383</TimeBehind>
+<Position>18</Position>
+<Status>OK</Status>
+<ControlCard>256393</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929596</EntryId>
+<Person sex="M">
+<Id>116535</Id>
+<Name>
+<Family>Edeskär</Family>
+<Given>Tommy</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:31:42.000</StartTime>
+<FinishTime>2019-04-29T18:55:34.000</FinishTime>
+<Time>1432</Time>
+<TimeBehind>420</TimeBehind>
+<Position>19</Position>
+<Status>OK</Status>
+<ControlCard>1720206</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926372</EntryId>
+<Person sex="M">
+<Id>168123</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Tomas</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:29:17.000</StartTime>
+<FinishTime>2019-04-29T18:55:25.000</FinishTime>
+<Time>1568</Time>
+<TimeBehind>556</TimeBehind>
+<Position>20</Position>
+<Status>OK</Status>
+<ControlCard>1459039</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927431</EntryId>
+<Person sex="M">
+<Id>105484</Id>
+<Name>
+<Family>Holmberg</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:04:28.000</StartTime>
+<FinishTime>2019-04-29T19:23:34.000</FinishTime>
+<Time>1146</Time>
+<TimeBehind>134</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9740511</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3920259</EntryId>
+<Person sex="M">
+<Id>116542</Id>
+<Name>
+<Family>Lundström</Family>
+<Given>Fredrik</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:37:54.000</StartTime>
+<FinishTime>2019-04-29T18:58:49.000</FinishTime>
+<Time>1255</Time>
+<TimeBehind>243</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>2088562</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929569</EntryId>
+<Person sex="M">
+<Id>109688</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Rikard</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:36:39.000</StartTime>
+<FinishTime>2019-04-29T18:58:53.000</FinishTime>
+<Time>1334</Time>
+<TimeBehind>322</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>435400</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" maxAge="16">
+<Id>29</Id>
+<Name>H16</Name>
+<ShortName>H16</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>D21, H16</Name>
+<Length>2320</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3919508</EntryId>
+<Person sex="M">
+<Id>46895</Id>
+<Name>
+<Family>Markström</Family>
+<Given>Simon</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:05:03.000</StartTime>
+<FinishTime>2019-04-29T19:20:59.000</FinishTime>
+<Time>956</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>8037134</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926973</EntryId>
+<Person sex="M">
+<Id>88048</Id>
+<Name>
+<Family>Lundholm</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:15:37.000</StartTime>
+<FinishTime>2019-04-29T19:32:43.000</FinishTime>
+<Time>1026</Time>
+<TimeBehind>70</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1220404</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3920126</EntryId>
+<Person sex="M">
+<Id>34485</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Oskar</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:42.000</StartTime>
+<FinishTime>2019-04-29T18:57:41.000</FinishTime>
+<Time>1019</Time>
+<TimeBehind>63</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>8040124</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930773</EntryId>
+<Person sex="M">
+<Id>146287</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Anton</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:03:40.000</StartTime>
+<FinishTime>2019-04-29T19:27:54.000</FinishTime>
+<Time>1454</Time>
+<TimeBehind>498</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>2106004</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" maxAge="14">
+<Id>30</Id>
+<Name>H14</Name>
+<ShortName>H14</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>H14, D16, H50</Name>
+<Length>2020</Length>
+<Climb>0</Climb>
+<NumberOfControls>14</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3925245</EntryId>
+<Person sex="M">
+<Id>73357</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Tim</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:07:43.000</StartTime>
+<FinishTime>2019-04-29T19:19:39.000</FinishTime>
+<Time>716</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9050310</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3920124</EntryId>
+<Person sex="M">
+<Id>34917</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Arvid</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:40.000</StartTime>
+<FinishTime>2019-04-29T18:53:03.000</FinishTime>
+<Time>743</Time>
+<TimeBehind>27</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>8060302</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930400</EntryId>
+<Person sex="M">
+<Id>102958</Id>
+<Name>
+<Family>Nordin</Family>
+<Given>Linus</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:01:40.000</StartTime>
+<FinishTime>2019-04-29T19:18:23.000</FinishTime>
+<Time>1003</Time>
+<TimeBehind>287</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>1919199</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927175</EntryId>
+<Person sex="M">
+<Id>120365</Id>
+<Name>
+<Family>Weinz</Family>
+<Given>Arvid</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:40.000</StartTime>
+<FinishTime>2019-04-29T18:54:17.000</FinishTime>
+<Time>1117</Time>
+<TimeBehind>401</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>9943386</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925639</EntryId>
+<Person sex="M">
+<Id>88042</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Edvin</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7055195</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" maxAge="12">
+<Id>31</Id>
+<Name>H12</Name>
+<ShortName>H12</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>H12, D70</Name>
+<Length>1940</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3924715</EntryId>
+<Person sex="M">
+<Id>95166</Id>
+<Name>
+<Family>Wollbrand</Family>
+<Given>Melker</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:54:44.000</StartTime>
+<FinishTime>2019-04-29T19:09:24.000</FinishTime>
+<Time>880</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7070803</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928124</EntryId>
+<Person sex="M">
+<Id>75839</Id>
+<Name>
+<Family>Kuokkanen</Family>
+<Given>Vilgot</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:10.000</StartTime>
+<FinishTime>2019-04-29T18:52:16.000</FinishTime>
+<Time>1026</Time>
+<TimeBehind>146</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>8070205</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929568</EntryId>
+<Person sex="M">
+<Id>104367</Id>
+<Name>
+<Family>Larsson</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:37:40.000</StartTime>
+<FinishTime>2019-04-29T18:56:02.000</FinishTime>
+<Time>1102</Time>
+<TimeBehind>222</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7000288</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926373</EntryId>
+<Person sex="M">
+<Id>129707</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Elias</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:32.000</StartTime>
+<FinishTime>2019-04-29T18:50:01.000</FinishTime>
+<Time>1169</Time>
+<TimeBehind>289</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2030948</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>catini</Family>
+<Given>Eilan</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>9</BibNumber>
+<StartTime>2019-04-29T18:59:17.000</StartTime>
+<FinishTime>2019-04-29T19:18:55.000</FinishTime>
+<Time>1178</Time>
+<TimeBehind>298</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>249488</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928215</EntryId>
+<Person sex="M">
+<Id>164314</Id>
+<Name>
+<Family>Jonsson</Family>
+<Given>Viktor</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:27:43.000</StartTime>
+<FinishTime>2019-04-29T18:47:22.000</FinishTime>
+<Time>1179</Time>
+<TimeBehind>299</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>8293996</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928789</EntryId>
+<Person sex="M">
+<Id>154969</Id>
+<Name>
+<Family>Lindblom</Family>
+<Given>Karl</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:41.000</StartTime>
+<FinishTime>2019-04-29T19:01:27.000</FinishTime>
+<Time>1186</Time>
+<TimeBehind>306</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>2139946</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925288</EntryId>
+<Person sex="M">
+<Id>147836</Id>
+<Name>
+<Family>Nordlund</Family>
+<Given>Love</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:46:40.000</StartTime>
+<FinishTime>2019-04-29T19:08:20.000</FinishTime>
+<Time>1300</Time>
+<TimeBehind>420</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>243850</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928101</EntryId>
+<Person sex="M">
+<Id>117520</Id>
+<Name>
+<Family>Renberg</Family>
+<Given>Ove</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:47:43.000</StartTime>
+<FinishTime>2019-04-29T19:09:25.000</FinishTime>
+<Time>1302</Time>
+<TimeBehind>422</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>7071029</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Sunna</Family>
+<Given>Enok</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>10</BibNumber>
+<StartTime>2019-04-29T18:57:58.000</StartTime>
+<FinishTime>2019-04-29T19:21:37.000</FinishTime>
+<Time>1419</Time>
+<TimeBehind>539</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>256375</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924987</EntryId>
+<Person sex="M">
+<Id>117521</Id>
+<Name>
+<Family>Hansson</Family>
+<Given>Anton</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>2104167</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" maxAge="10">
+<Id>32</Id>
+<Name>H10</Name>
+<ShortName>H10</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9007</Id>
+<Name>H10, D10</Name>
+<Length>1330</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>46910</Id>
+<Name>
+<Family>Sundqvist</Family>
+<Given>Ville</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>29</BibNumber>
+<StartTime>2019-04-29T19:09:20.000</StartTime>
+<FinishTime>2019-04-29T19:20:39.000</FinishTime>
+<Time>679</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>443645</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924390</EntryId>
+<Person sex="M">
+<Id>157987</Id>
+<Name>
+<Family>Edin</Family>
+<Given>Hjalmar</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>736</Time>
+<TimeBehind>57</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>437527</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926948</EntryId>
+<Person sex="M">
+<Id>139807</Id>
+<Name>
+<Family>Berggren</Family>
+<Given>Albin</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:32:36.000</StartTime>
+<FinishTime>2019-04-29T18:45:28.000</FinishTime>
+<Time>772</Time>
+<TimeBehind>93</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>791229</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927916</EntryId>
+<Person sex="M">
+<Id>129698</Id>
+<Name>
+<Family>Hörnquist</Family>
+<Given>Erik</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:33:20.000</StartTime>
+<FinishTime>2019-04-29T18:50:13.000</FinishTime>
+<Time>1013</Time>
+<TimeBehind>334</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>8091024</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926449</EntryId>
+<Person sex="M">
+<Id>115648</Id>
+<Name>
+<Family>Holmberg</Family>
+<Given>Knut</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:51:44.000</StartTime>
+<FinishTime>2019-04-29T19:10:19.000</FinishTime>
+<Time>1115</Time>
+<TimeBehind>436</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>1100718</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F" minAge="50">
+<Id>39</Id>
+<Name>D50</Name>
+<ShortName>D50</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>D14,D50, H70</Name>
+<Length>1940</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3920257</EntryId>
+<Person sex="F">
+<Id>116541</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Agneta</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:39:45.000</StartTime>
+<FinishTime>2019-04-29T18:55:37.000</FinishTime>
+<Time>952</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1403974</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925218</EntryId>
+<Person sex="F">
+<Id>22096</Id>
+<Name>
+<Family>Danielsson</Family>
+<Given>Irene</Given>
+</Name>
+<BirthDate>1951-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:44.000</StartTime>
+<FinishTime>2019-04-29T19:01:57.000</FinishTime>
+<Time>1213</Time>
+<TimeBehind>261</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1414486</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3921968</EntryId>
+<Person sex="F">
+<Id>8267</Id>
+<Name>
+<Family>Brännström</Family>
+<Given>Sylvia</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:33:15.000</StartTime>
+<FinishTime>2019-04-29T18:57:43.000</FinishTime>
+<Time>1468</Time>
+<TimeBehind>516</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>409690</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>2</Id>
+<Name>
+<Family>Stern</Family>
+<Given>Maria</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>569</Id>
+<Name>Arvidsjaurs OK</Name>
+<ShortName>Arvidsjaurs OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>1</BibNumber>
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotFinish</Status>
+<ControlCard>33450</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F">
+<Id>47</Id>
+<Name>D21</Name>
+<ShortName>D21</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>D21, H16</Name>
+<Length>2320</Length>
+<Climb>0</Climb>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3925486</EntryId>
+<Person sex="F">
+<Id>9717</Id>
+<Name>
+<Family>Björnlinger</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1996-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>413</Id>
+<Name>Ulricehamns OK</Name>
+<ShortName>Ulricehamns OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:53:43.000</StartTime>
+<FinishTime>2019-04-29T19:09:16.000</FinishTime>
+<Time>933</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>523243</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924359</EntryId>
+<Person sex="F">
+<Id>51507</Id>
+<Name>
+<Family>Bergström</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:14:47.000</StartTime>
+<FinishTime>2019-04-29T19:30:46.000</FinishTime>
+<Time>959</Time>
+<TimeBehind>26</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9005269</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926100</EntryId>
+<Person sex="F">
+<Id>88378</Id>
+<Name>
+<Family>Killmey</Family>
+<Given>Ellen</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:44.000</StartTime>
+<FinishTime>2019-04-29T18:57:52.000</FinishTime>
+<Time>1028</Time>
+<TimeBehind>95</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>1394640</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928077</EntryId>
+<Person sex="F">
+<Id>55659</Id>
+<Name>
+<Family>Lundgren</Family>
+<Given>Elin</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:42:41.000</StartTime>
+<FinishTime>2019-04-29T18:59:52.000</FinishTime>
+<Time>1031</Time>
+<TimeBehind>98</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>980727</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924096</EntryId>
+<Person sex="F">
+<Id>18269</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Agnes</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:12:42.000</StartTime>
+<FinishTime>2019-04-29T19:30:40.000</FinishTime>
+<Time>1078</Time>
+<TimeBehind>145</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>7003055</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3922490</EntryId>
+<Person sex="F">
+<Id>52866</Id>
+<Name>
+<Family>Aasa</Family>
+<Given>Anna</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:13:41.000</StartTime>
+<FinishTime>2019-04-29T19:31:51.000</FinishTime>
+<Time>1090</Time>
+<TimeBehind>157</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>443724</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919434</EntryId>
+<Person sex="F">
+<Id>115539</Id>
+<Name>
+<Family>Hedlund</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:50:41.000</StartTime>
+<FinishTime>2019-04-29T19:09:10.000</FinishTime>
+<Time>1109</Time>
+<TimeBehind>176</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>9000608</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3931897</EntryId>
+<Person sex="F">
+<Id>24719</Id>
+<Name>
+<Family>Andersson</Family>
+<Given>Anna</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2843</Id>
+<Name>Piteå IF Orienteringsklubb</Name>
+<ShortName>Piteå IF Orienteringsklubb</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:09:42.000</StartTime>
+<FinishTime>2019-04-29T19:28:17.000</FinishTime>
+<Time>1115</Time>
+<TimeBehind>182</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>933288</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925499</EntryId>
+<Person sex="F">
+<Id>20324</Id>
+<Name>
+<Family>Palmgren</Family>
+<Given>Jenny</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>374</Id>
+<Name>Sundsvalls OK</Name>
+<ShortName>Sundsvalls OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:54:43.000</StartTime>
+<FinishTime>2019-04-29T19:13:27.000</FinishTime>
+<Time>1124</Time>
+<TimeBehind>191</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>7033093</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929561</EntryId>
+<Person sex="F">
+<Id>22311</Id>
+<Name>
+<Family>Christoffersson</Family>
+<Given>Evelina</Given>
+</Name>
+<BirthDate>1992-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>570</Id>
+<Name>OK Roslagen</Name>
+<ShortName>OK Roslagen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:08:40.000</StartTime>
+<FinishTime>2019-04-29T19:27:56.000</FinishTime>
+<Time>1156</Time>
+<TimeBehind>223</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>334551</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924309</EntryId>
+<Person sex="F">
+<Id>43523</Id>
+<Name>
+<Family>Daniels</Family>
+<Given>Linnéa</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>638</Id>
+<Name>Attunda OK</Name>
+<ShortName>Attunda OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:52:46.000</StartTime>
+<FinishTime>2019-04-29T19:12:09.000</FinishTime>
+<Time>1163</Time>
+<TimeBehind>230</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>930911</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927482</EntryId>
+<Person sex="F">
+<Id>116538</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Emmie</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:16:42.000</StartTime>
+<FinishTime>2019-04-29T19:36:23.000</FinishTime>
+<Time>1181</Time>
+<TimeBehind>248</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>2088590</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927484</EntryId>
+<Person sex="F">
+<Id>33289</Id>
+<Name>
+<Family>Svanberg</Family>
+<Given>Hanna</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:18:26.000</StartTime>
+<FinishTime>2019-04-29T19:38:13.000</FinishTime>
+<Time>1187</Time>
+<TimeBehind>254</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>7010421</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924097</EntryId>
+<Person sex="F">
+<Id>18264</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:57:35.000</StartTime>
+<FinishTime>2019-04-29T19:17:49.000</FinishTime>
+<Time>1214</Time>
+<TimeBehind>281</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>730505</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925249</EntryId>
+<Person sex="F">
+<Id>73361</Id>
+<Name>
+<Family>Lundberg</Family>
+<Given>Linda</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:32:50.000</StartTime>
+<FinishTime>2019-04-29T18:54:37.000</FinishTime>
+<Time>1307</Time>
+<TimeBehind>374</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>2059025</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919028</EntryId>
+<Person sex="F">
+<Id>98946</Id>
+<Name>
+<Family>Engström</Family>
+<Given>Moa</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:55:43.000</StartTime>
+<FinishTime>2019-04-29T19:18:12.000</FinishTime>
+<Time>1349</Time>
+<TimeBehind>416</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>9020809</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924705</EntryId>
+<Person sex="F">
+<Id>75894</Id>
+<Name>
+<Family>Ylipää</Family>
+<Given>Tina</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:48:40.000</StartTime>
+<FinishTime>2019-04-29T19:11:09.000</FinishTime>
+<Time>1349</Time>
+<TimeBehind>416</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>7020409</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928005</EntryId>
+<Person sex="F">
+<Id>35796</Id>
+<Name>
+<Family>Halvarsson</Family>
+<Given>Amanda</Given>
+</Name>
+<BirthDate>1998-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>234</Id>
+<Name>Leksands OK</Name>
+<ShortName>Leksands OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:56:42.000</StartTime>
+<FinishTime>2019-04-29T19:19:50.000</FinishTime>
+<Time>1388</Time>
+<TimeBehind>455</TimeBehind>
+<Position>18</Position>
+<Status>OK</Status>
+<ControlCard>9980502</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926947</EntryId>
+<Person sex="F">
+<Id>124252</Id>
+<Name>
+<Family>Bennitz</Family>
+<Given>Karolina</Given>
+</Name>
+<BirthDate>1978-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:32:39.000</StartTime>
+<FinishTime>2019-04-29T18:56:50.000</FinishTime>
+<Time>1451</Time>
+<TimeBehind>518</TimeBehind>
+<Position>19</Position>
+<Status>OK</Status>
+<ControlCard>7780826</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>51179</Id>
+<Name>
+<Family>Lidman</Family>
+<Given>Linda</Given>
+</Name>
+<BirthDate>1985-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>7</BibNumber>
+<StartTime>2019-04-29T18:41:42.000</StartTime>
+<FinishTime>2019-04-29T18:58:10.000</FinishTime>
+<Time>988</Time>
+<TimeBehind>55</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>448810</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M" minAge="70">
+<Id>49</Id>
+<Name>H70</Name>
+<ShortName>H70</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>D14,D50, H70</Name>
+<Length>1940</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3919882</EntryId>
+<Person sex="M">
+<Id>30272</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Bo</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>470</Id>
+<Name>IK Örnen Måttsund</Name>
+<ShortName>IK Örnen Måttsund</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:08.000</StartTime>
+<FinishTime>2019-04-29T18:52:33.000</FinishTime>
+<Time>1045</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>28876</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925587</EntryId>
+<Person sex="M">
+<Id>22378</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Clas-Göran</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:43:07.000</StartTime>
+<FinishTime>2019-04-29T19:01:36.000</FinishTime>
+<Time>1109</Time>
+<TimeBehind>64</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9470909</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924295</EntryId>
+<Person sex="M">
+<Id>35726</Id>
+<Name>
+<Family>Mörtberg</Family>
+<Given>Kjell</Given>
+</Name>
+<BirthDate>1945-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:59:40.000</StartTime>
+<FinishTime>2019-04-29T19:19:51.000</FinishTime>
+<Time>1211</Time>
+<TimeBehind>166</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>9451208</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927093</EntryId>
+<Person sex="M">
+<Id>24312</Id>
+<Name>
+<Family>Lindskog</Family>
+<Given>Stig</Given>
+</Name>
+<BirthDate>1938-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>440</Id>
+<Name>Visborgs OK</Name>
+<ShortName>Visborgs OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:59.000</StartTime>
+<FinishTime>2019-04-29T18:57:28.000</FinishTime>
+<Time>1289</Time>
+<TimeBehind>244</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>10383</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919883</EntryId>
+<Person sex="M">
+<Id>83516</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Ove</Given>
+</Name>
+<BirthDate>1943-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>470</Id>
+<Name>IK Örnen Måttsund</Name>
+<ShortName>IK Örnen Måttsund</ShortName>
+<Country code="SWE">SWE</Country>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:33:24.000</StartTime>
+<FinishTime>2019-04-29T18:55:00.000</FinishTime>
+<Time>1296</Time>
+<TimeBehind>251</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>731119</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F" maxAge="16">
+<Id>54</Id>
+<Name>D16</Name>
+<ShortName>D16</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>H14, D16, H50</Name>
+<Length>2020</Length>
+<Climb>0</Climb>
+<NumberOfControls>14</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3924633</EntryId>
+<Person sex="F">
+<Id>46938</Id>
+<Name>
+<Family>Turesson</Family>
+<Given>Ella</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:00:41.000</StartTime>
+<FinishTime>2019-04-29T19:14:27.000</FinishTime>
+<Time>826</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9041215</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3922507</EntryId>
+<Person sex="F">
+<Id>76909</Id>
+<Name>
+<Family>Kivijärvi</Family>
+<Given>Klara</Given>
+</Name>
+<BirthDate>2004-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:04:20.000</StartTime>
+<FinishTime>2019-04-29T19:18:50.000</FinishTime>
+<Time>870</Time>
+<TimeBehind>44</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9040714</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924098</EntryId>
+<Person sex="F">
+<Id>29728</Id>
+<Name>
+<Family>Karlsson</Family>
+<Given>Edit</Given>
+</Name>
+<BirthDate>2003-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:42:42.000</StartTime>
+<FinishTime>2019-04-29T19:09:11.000</FinishTime>
+<Time>1589</Time>
+<TimeBehind>763</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7000266</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F" maxAge="14">
+<Id>55</Id>
+<Name>D14</Name>
+<ShortName>D14</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>D14,D50, H70</Name>
+<Length>1940</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3927712</EntryId>
+<Person sex="F">
+<Id>102788</Id>
+<Name>
+<Family>Hasselström</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:58:41.000</StartTime>
+<FinishTime>2019-04-29T19:12:12.000</FinishTime>
+<Time>811</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7050710</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927680</EntryId>
+<Person sex="F">
+<Id>115535</Id>
+<Name>
+<Family>Edin</Family>
+<Given>Mirjam</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:06:42.000</StartTime>
+<FinishTime>2019-04-29T19:21:05.000</FinishTime>
+<Time>863</Time>
+<TimeBehind>52</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>8060301</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927917</EntryId>
+<Person sex="F">
+<Id>129697</Id>
+<Name>
+<Family>Hörnquist</Family>
+<Given>Lisa</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:45.000</StartTime>
+<FinishTime>2019-04-29T18:50:31.000</FinishTime>
+<Time>886</Time>
+<TimeBehind>75</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>8050626</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3920258</EntryId>
+<Person sex="F">
+<Id>102668</Id>
+<Name>
+<Family>Lindbäck</Family>
+<Given>Tova</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:51:43.000</StartTime>
+<FinishTime>2019-04-29T19:07:03.000</FinishTime>
+<Time>920</Time>
+<TimeBehind>109</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2060863</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926974</EntryId>
+<Person sex="F">
+<Id>102840</Id>
+<Name>
+<Family>Lundholm</Family>
+<Given>Emilia</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:08:41.000</StartTime>
+<FinishTime>2019-04-29T19:24:03.000</FinishTime>
+<Time>922</Time>
+<TimeBehind>111</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>1051203</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926639</EntryId>
+<Person sex="F">
+<Id>168243</Id>
+<Name>
+<Family>Isaksson</Family>
+<Given>Lovisa</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:52:42.000</StartTime>
+<FinishTime>2019-04-29T19:09:05.000</FinishTime>
+<Time>983</Time>
+<TimeBehind>172</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>8050807</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919435</EntryId>
+<Person sex="F">
+<Id>115541</Id>
+<Name>
+<Family>Hedlund</Family>
+<Given>Alma</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:50:42.000</StartTime>
+<FinishTime>2019-04-29T19:05:42.000</FinishTime>
+<Time>900</Time>
+<TimeBehind>89</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9050318</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F" maxAge="12">
+<Id>56</Id>
+<Name>D12</Name>
+<ShortName>D12</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>D12, Ö4</Name>
+<Length>1860</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3924634</EntryId>
+<Person sex="F">
+<Id>46941</Id>
+<Name>
+<Family>Turesson</Family>
+<Given>Minna</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:57:40.000</StartTime>
+<FinishTime>2019-04-29T19:09:40.000</FinishTime>
+<Time>720</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>9070126</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927934</EntryId>
+<Person sex="F">
+<Id>135490</Id>
+<Name>
+<Family>Bergkvist</Family>
+<Given>Iris</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:44:40.000</StartTime>
+<FinishTime>2019-04-29T18:58:41.000</FinishTime>
+<Time>841</Time>
+<TimeBehind>121</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1426975</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930774</EntryId>
+<Person sex="F">
+<Id>146288</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Ella</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:40.000</StartTime>
+<FinishTime>2019-04-29T18:57:56.000</FinishTime>
+<Time>976</Time>
+<TimeBehind>256</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>2106017</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927679</EntryId>
+<Person sex="F">
+<Id>115543</Id>
+<Name>
+<Family>Edin</Family>
+<Given>Hedda</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:07:44.000</StartTime>
+<FinishTime>2019-04-29T19:26:01.000</FinishTime>
+<Time>1097</Time>
+<TimeBehind>377</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>8080123</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926450</EntryId>
+<Person sex="F">
+<Id>105485</Id>
+<Name>
+<Family>Holmberg</Family>
+<Given>Tova</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:49:41.000</StartTime>
+<FinishTime>2019-04-29T19:09:04.000</FinishTime>
+<Time>1163</Time>
+<TimeBehind>443</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>1071028</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Stridsman</Family>
+<Given>Maja</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>5</BibNumber>
+<StartTime>2019-04-29T18:45:41.000</StartTime>
+<FinishTime>2019-04-29T19:08:09.000</FinishTime>
+<Time>1348</Time>
+<TimeBehind>628</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>249438</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929594</EntryId>
+<Person sex="F">
+<Id>116543</Id>
+<Name>
+<Family>Edeskär</Family>
+<Given>Vera</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:29:47.000</StartTime>
+<FinishTime>2019-04-29T19:00:03.000</FinishTime>
+<Time>1816</Time>
+<TimeBehind>1096</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>1080625</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925641</EntryId>
+<Person sex="F">
+<Id>102170</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Astrid</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7055194</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="F" maxAge="10">
+<Id>57</Id>
+<Name>D10</Name>
+<ShortName>D10</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9007</Id>
+<Name>H10, D10</Name>
+<Length>1330</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3928125</EntryId>
+<Person sex="F">
+<Id>75840</Id>
+<Name>
+<Family>Kuokkanen</Family>
+<Given>Vilma</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:41.000</StartTime>
+<FinishTime>2019-04-29T18:47:38.000</FinishTime>
+<Time>717</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1090306</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3920125</EntryId>
+<Person sex="F">
+<Id>61003</Id>
+<Name>
+<Family>Ingvarsson</Family>
+<Given>Irma</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:34:21.000</StartTime>
+<FinishTime>2019-04-29T18:47:39.000</FinishTime>
+<Time>798</Time>
+<TimeBehind>81</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>9752354</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M">
+<Id>94</Id>
+<Name>Öppen motion 1</Name>
+<ShortName>ÖM1</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>30.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>60.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9008</Id>
+<Name>Ö1</Name>
+<Length>920</Length>
+<Climb>0</Climb>
+<NumberOfControls>9</NumberOfControls>
+</Course>
+<PersonResult>
+<EntryId>3929742</EntryId>
+<Person sex="F">
+<Id>146290</Id>
+<Name>
+<Family>Magnusson</Family>
+<Given>Sigrid</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>412</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>449421</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929743</EntryId>
+<Person sex="M">
+<Id>159354</Id>
+<Name>
+<Family>Magnusson</Family>
+<Given>Seved</Given>
+</Name>
+<BirthDate>1967-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>451</Time>
+<TimeBehind>39</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>437510</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Usipov</Family>
+<Given>Viktor</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>30</BibNumber>
+<StartTime>2019-04-29T18:37:42.000</StartTime>
+<FinishTime>2019-04-29T18:46:15.000</FinishTime>
+<Time>513</Time>
+<TimeBehind>101</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>449450</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Usipov</Family>
+<Given>MArtin</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>2</BibNumber>
+<StartTime>2019-04-29T18:37:52.000</StartTime>
+<FinishTime>2019-04-29T18:47:37.000</FinishTime>
+<Time>585</Time>
+<TimeBehind>173</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>437503</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924499</EntryId>
+<Person sex="F">
+<Id>167984</Id>
+<Name>
+<Family>Norsten</Family>
+<Given>Tila</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:54.000</StartTime>
+<FinishTime>2019-04-29T18:46:40.000</FinishTime>
+<Time>646</Time>
+<TimeBehind>234</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>449443</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924372</EntryId>
+<Person sex="F">
+<Id>167704</Id>
+<Name>
+<Family>Gustafsson</Family>
+<Given>Elsa</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:35:50.000</StartTime>
+<FinishTime>2019-04-29T18:46:39.000</FinishTime>
+<Time>649</Time>
+<TimeBehind>237</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>449439</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Kemi</Family>
+<Given>Elise</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>4</BibNumber>
+<StartTime>2019-04-29T18:35:52.000</StartTime>
+<FinishTime>2019-04-29T18:46:42.000</FinishTime>
+<Time>650</Time>
+<TimeBehind>238</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>437502</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925921</EntryId>
+<Person sex="M">
+<Id>146307</Id>
+<Name>
+<Family>Levén Engström</Family>
+<Given>Elias</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:32:41.000</StartTime>
+<FinishTime>2019-04-29T18:43:41.000</FinishTime>
+<Time>660</Time>
+<TimeBehind>248</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>1100515</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Nilsson</Family>
+<Given>Viggo</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>15</BibNumber>
+<StartTime>2019-04-29T18:51:40.000</StartTime>
+<FinishTime>2019-04-29T19:02:57.000</FinishTime>
+<Time>677</Time>
+<TimeBehind>265</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>256378</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Lidman</Family>
+<Given>Vilma</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>699</Time>
+<TimeBehind>287</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>16926</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925287</EntryId>
+<Person sex="F">
+<Id>147838</Id>
+<Name>
+<Family>Nordlund</Family>
+<Given>Tilde</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:43:13.000</StartTime>
+<FinishTime>2019-04-29T18:55:05.000</FinishTime>
+<Time>712</Time>
+<TimeBehind>300</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>19381</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928272</EntryId>
+<Person sex="M">
+<Id>179557</Id>
+<Name>
+<Family>Viklund Rodälv</Family>
+<Given>Ludvig</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:33:28.000</StartTime>
+<FinishTime>2019-04-29T18:45:22.000</FinishTime>
+<Time>714</Time>
+<TimeBehind>302</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>1090618</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926374</EntryId>
+<Person sex="M">
+<Id>158968</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Emil</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:29:50.000</StartTime>
+<FinishTime>2019-04-29T18:42:22.000</FinishTime>
+<Time>752</Time>
+<TimeBehind>340</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>2144772</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925909</EntryId>
+<Person sex="M">
+<Id>155615</Id>
+<Name>
+<Family>Lund Jung</Family>
+<Given>Torkel</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:31:43.000</StartTime>
+<FinishTime>2019-04-29T18:44:43.000</FinishTime>
+<Time>780</Time>
+<TimeBehind>368</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>1389998</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Lundholm</Family>
+<Given>Marie</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>17</BibNumber>
+<StartTime>2019-04-29T18:57:44.000</StartTime>
+<FinishTime>2019-04-29T19:10:48.000</FinishTime>
+<Time>784</Time>
+<TimeBehind>372</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>435395</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928214</EntryId>
+<Person sex="M">
+<Id>164315</Id>
+<Name>
+<Family>Jonsson</Family>
+<Given>Axel</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:29:03.000</StartTime>
+<FinishTime>2019-04-29T18:42:14.000</FinishTime>
+<Time>791</Time>
+<TimeBehind>379</TimeBehind>
+<Position>16</Position>
+<Status>OK</Status>
+<ControlCard>8473523</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>105211</Id>
+<Name>
+<Family>Riekkola</Family>
+<Given>Edvin</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>28</BibNumber>
+<StartTime>2019-04-29T19:07:13.000</StartTime>
+<FinishTime>2019-04-29T19:21:53.000</FinishTime>
+<Time>880</Time>
+<TimeBehind>468</TimeBehind>
+<Position>17</Position>
+<Status>OK</Status>
+<ControlCard>7039515</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929595</EntryId>
+<Person sex="F">
+<Id>116546</Id>
+<Name>
+<Family>Edeskär</Family>
+<Given>Siri</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:45.000</StartTime>
+<FinishTime>2019-04-29T18:45:32.000</FinishTime>
+<Time>887</Time>
+<TimeBehind>475</TimeBehind>
+<Position>18</Position>
+<Status>OK</Status>
+<ControlCard>1221111</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929889</EntryId>
+<Person sex="F">
+<Id>168438</Id>
+<Name>
+<Family>Rönnbäck</Family>
+<Given>Svea</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:33:41.000</StartTime>
+<FinishTime>2019-04-29T18:48:56.000</FinishTime>
+<Time>915</Time>
+<TimeBehind>503</TimeBehind>
+<Position>19</Position>
+<Status>OK</Status>
+<ControlCard>7116676</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3931708</EntryId>
+<Person sex="F">
+<Id>158941</Id>
+<Name>
+<Family>Spett</Family>
+<Given>Svea</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:34:08.000</StartTime>
+<FinishTime>2019-04-29T18:49:34.000</FinishTime>
+<Time>926</Time>
+<TimeBehind>514</TimeBehind>
+<Position>20</Position>
+<Status>OK</Status>
+<ControlCard>437516</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>84497</Id>
+<Name>
+<Family>Stridsman</Family>
+<Given>Ellen</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>6</BibNumber>
+<StartTime>2019-04-29T18:45:47.000</StartTime>
+<FinishTime>2019-04-29T19:01:30.000</FinishTime>
+<Time>943</Time>
+<TimeBehind>531</TimeBehind>
+<Position>21</Position>
+<Status>OK</Status>
+<ControlCard>256386</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Sundström</Family>
+<Given>Moa</Given>
+</Name>
+</Person>
+<Result raceNumber="1">
+<BibNumber>25</BibNumber>
+<StartTime>2019-04-29T19:04:47.000</StartTime>
+<FinishTime>2019-04-29T19:20:45.000</FinishTime>
+<Time>958</Time>
+<TimeBehind>546</TimeBehind>
+<Position>22</Position>
+<Status>OK</Status>
+<ControlCard>248826</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Björklund</Family>
+<Given>Julia</Given>
+</Name>
+</Person>
+<Result raceNumber="1">
+<BibNumber>26</BibNumber>
+<StartTime>2019-04-29T19:04:45.000</StartTime>
+<FinishTime>2019-04-29T19:20:44.000</FinishTime>
+<Time>959</Time>
+<TimeBehind>547</TimeBehind>
+<Position>23</Position>
+<Status>OK</Status>
+<ControlCard>437521</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Åsberg</Family>
+<Given>Leo</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:43:52.000</StartTime>
+<FinishTime>2019-04-29T18:59:57.000</FinishTime>
+<Time>965</Time>
+<TimeBehind>553</TimeBehind>
+<Position>24</Position>
+<Status>OK</Status>
+<ControlCard>445179</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Myrhaug</Family>
+<Given>Line</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>12</BibNumber>
+<StartTime>2019-04-29T18:46:43.000</StartTime>
+<FinishTime>2019-04-29T19:03:36.000</FinishTime>
+<Time>1013</Time>
+<TimeBehind>601</TimeBehind>
+<Position>25</Position>
+<Status>OK</Status>
+<ControlCard>437506</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925914</EntryId>
+<Person sex="F">
+<Id>167540</Id>
+<Name>
+<Family>Carlsson</Family>
+<Given>Etta</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:38:36.000</StartTime>
+<FinishTime>2019-04-29T18:55:53.000</FinishTime>
+<Time>1037</Time>
+<TimeBehind>625</TimeBehind>
+<Position>26</Position>
+<Status>OK</Status>
+<ControlCard>437600</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929415</EntryId>
+<Person sex="M">
+<Id>168643</Id>
+<Name>
+<Family>Broström</Family>
+<Given>John</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:36:45.000</StartTime>
+<FinishTime>2019-04-29T18:54:36.000</FinishTime>
+<Time>1071</Time>
+<TimeBehind>659</TimeBehind>
+<Position>27</Position>
+<Status>OK</Status>
+<ControlCard>248867</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928790</EntryId>
+<Person sex="F">
+<Id>158467</Id>
+<Name>
+<Family>Lindblom</Family>
+<Given>Elsa</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:55.000</StartTime>
+<FinishTime>2019-04-29T19:05:12.000</FinishTime>
+<Time>1397</Time>
+<TimeBehind>985</TimeBehind>
+<Position>28</Position>
+<Status>OK</Status>
+<ControlCard>2139655</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927936</EntryId>
+<Person sex="F">
+<Id>135491</Id>
+<Name>
+<Family>Bergkvist</Family>
+<Given>Ellen</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:41:54.000</StartTime>
+<FinishTime>2019-04-29T19:05:14.000</FinishTime>
+<Time>1400</Time>
+<TimeBehind>988</TimeBehind>
+<Position>29</Position>
+<Status>OK</Status>
+<ControlCard>1426986</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Lundholm</Family>
+<Given>William</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>16</BibNumber>
+<StartTime>2019-04-29T19:05:47.000</StartTime>
+<FinishTime>2019-04-29T19:31:05.000</FinishTime>
+<Time>1518</Time>
+<TimeBehind>1106</TimeBehind>
+<Position>30</Position>
+<Status>OK</Status>
+<ControlCard>437505</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Holmberg</Family>
+<Given>Doris</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>11</BibNumber>
+<StartTime>2019-04-29T18:50:55.000</StartTime>
+<FinishTime>2019-04-29T19:18:05.000</FinishTime>
+<Time>1630</Time>
+<TimeBehind>1218</TimeBehind>
+<Position>31</Position>
+<Status>OK</Status>
+<ControlCard>1771026</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3932161</EntryId>
+<Person sex="M">
+<Id>162240</Id>
+<Name>
+<Family>Persson</Family>
+<Given>Olov</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M">
+<Id>97</Id>
+<Name>Öppen motion 4</Name>
+<ShortName>ÖM4</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>30.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>D12, Ö4</Name>
+<Length>1860</Length>
+<Climb>0</Climb>
+<NumberOfControls>13</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Piribauer</Family>
+<Given>Johan</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>569</Id>
+<Name>Arvidsjaurs OK</Name>
+<ShortName>Arvidsjaurs OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>33</BibNumber>
+<StartTime>2019-04-29T18:44:43.000</StartTime>
+<FinishTime>2019-04-29T18:58:46.000</FinishTime>
+<Time>843</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>256394</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3926375</EntryId>
+<Person sex="F">
+<Id>168124</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Kristina</Given>
+</Name>
+<BirthDate>1978-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:51:53.000</StartTime>
+<FinishTime>2019-04-29T19:06:00.000</FinishTime>
+<Time>847</Time>
+<TimeBehind>4</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1459038</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930044</EntryId>
+<Person sex="F">
+<Id>179628</Id>
+<Name>
+<Family>Sterner</Family>
+<Given>Freja</Given>
+</Name>
+<BirthDate>1984-01-01</BirthDate>
+</Person>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:36:42.000</StartTime>
+<FinishTime>2019-04-29T18:52:11.000</FinishTime>
+<Time>929</Time>
+<TimeBehind>86</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>249463</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Engström</Family>
+<Given>Emma</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>3</BibNumber>
+<StartTime>2019-04-29T19:07:05.000</StartTime>
+<FinishTime>2019-04-29T19:23:14.000</FinishTime>
+<Time>969</Time>
+<TimeBehind>126</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>1130605</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3930772</EntryId>
+<Person sex="F">
+<Id>148338</Id>
+<Name>
+<Family>Hedström</Family>
+<Given>Christine</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:57:55.000</StartTime>
+<FinishTime>2019-04-29T19:14:12.000</FinishTime>
+<Time>977</Time>
+<TimeBehind>134</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>2106001</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Svedenbjörk</Family>
+<Given>Kristina</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>24</BibNumber>
+<StartTime>2019-04-29T19:07:04.000</StartTime>
+<FinishTime>2019-04-29T19:23:26.000</FinishTime>
+<Time>982</Time>
+<TimeBehind>139</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>1197509</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3932142</EntryId>
+<Person sex="M">
+<Id>162242</Id>
+<Name>
+<Family>Persson</Family>
+<Given>Karl</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:45:49.000</StartTime>
+<FinishTime>2019-04-29T19:02:13.000</FinishTime>
+<Time>984</Time>
+<TimeBehind>141</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>7900079</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Svedenbäck</Family>
+<Given>Hugo</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>1440</Time>
+<TimeBehind>597</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>25220</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Svedenbäck</Family>
+<Given>Malin</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T00:00:00.000</StartTime>
+<FinishTime>2019-04-29T00:00:00.000</FinishTime>
+<Time>1440</Time>
+<TimeBehind>597</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>25219</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3919047</EntryId>
+<Person sex="F">
+<Id>98945</Id>
+<Name>
+<Family>Jonsson</Family>
+<Given>Linda</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:07:42.000</StartTime>
+<FinishTime>2019-04-29T19:33:07.000</FinishTime>
+<Time>1525</Time>
+<TimeBehind>682</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>9750211</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3928782</EntryId>
+<Person sex="F">
+<Id>154970</Id>
+<Name>
+<Family>Lindblom</Family>
+<Given>Anna</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:19.000</StartTime>
+<FinishTime>2019-04-29T19:05:51.000</FinishTime>
+<Time>1532</Time>
+<TimeBehind>689</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>2139673</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924703</EntryId>
+<Person sex="F">
+<Id>74727</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:38:44.000</StartTime>
+<FinishTime>2019-04-29T19:05:38.000</FinishTime>
+<Time>1614</Time>
+<TimeBehind>771</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>9010512</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924702</EntryId>
+<Person sex="F">
+<Id>109694</Id>
+<Name>
+<Family>Johansson</Family>
+<Given>Sofia</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>631</Id>
+<Name>Älvsby IF OK</Name>
+<ShortName>Älvsby IF OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:37:46.000</StartTime>
+<FinishTime>2019-04-29T19:05:44.000</FinishTime>
+<Time>1678</Time>
+<TimeBehind>835</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>234713</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Myrhaug</Family>
+<Given>Malte</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>13</BibNumber>
+<StartTime>2019-04-29T18:46:48.000</StartTime>
+<FinishTime>2019-04-29T19:16:14.000</FinishTime>
+<Time>1766</Time>
+<TimeBehind>923</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>437524</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929959</EntryId>
+<Person sex="F">
+<Id>168437</Id>
+<Name>
+<Family>Rönnbäck</Family>
+<Given>Ebba</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:40:54.000</StartTime>
+<FinishTime>2019-04-29T19:17:04.000</FinishTime>
+<Time>2170</Time>
+<TimeBehind>1327</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>7996676</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>30.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2121</Id>
+<Name>
+<Family>Hällgren</Family>
+<Given>Bernt</Given>
+</Name>
+<BirthDate>1954-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>8</BibNumber>
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotFinish</Status>
+<ControlCard>227621</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" maxNumberOfCompetitors="1" sex="M">
+<Id>101</Id>
+<Name>Öppen motion 8</Name>
+<ShortName>ÖM8</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>60.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>30.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>H21, Ö8</Name>
+<Length>2870</Length>
+<Climb>0</Climb>
+<NumberOfControls>20</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Pettersson</Family>
+<Given>Melker</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>27</BibNumber>
+<StartTime>2019-04-29T19:05:43.000</StartTime>
+<FinishTime>2019-04-29T19:24:55.000</FinishTime>
+<Time>1152</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1040876</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Karlsson</Family>
+<Given>Kalle</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>394</Id>
+<Name>Tjalve IF Norrköping</Name>
+<ShortName>Tjalve IF Norrköping</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>19</BibNumber>
+<StartTime>2019-04-29T18:58:42.000</StartTime>
+<FinishTime>2019-04-29T19:19:19.000</FinishTime>
+<Time>1237</Time>
+<TimeBehind>85</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>522561</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929938</EntryId>
+<Person sex="M">
+<Id>23902</Id>
+<Name>
+<Family>Odenryd</Family>
+<Given>Theo</Given>
+</Name>
+<BirthDate>1991-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>197</Id>
+<Name>Järbo OK</Name>
+<ShortName>Järbo OK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:55:47.000</StartTime>
+<FinishTime>2019-04-29T19:16:42.000</FinishTime>
+<Time>1255</Time>
+<TimeBehind>103</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>911030</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927678</EntryId>
+<Person sex="M">
+<Id>115557</Id>
+<Name>
+<Family>Edin</Family>
+<Given>Klas</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:02:53.000</StartTime>
+<FinishTime>2019-04-29T19:25:07.000</FinishTime>
+<Time>1334</Time>
+<TimeBehind>182</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>25215</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Olsson</Family>
+<Given>Tobias</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>2826</Id>
+<Name>Bodens Bandyklubb OS</Name>
+<ShortName>Bodens Bandyklubb OS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>23</BibNumber>
+<StartTime>2019-04-29T19:04:54.000</StartTime>
+<FinishTime>2019-04-29T19:29:08.000</FinishTime>
+<Time>1454</Time>
+<TimeBehind>302</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>501206</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Rockström</Family>
+<Given>Ivar</Given>
+</Name>
+</Person>
+<Result raceNumber="1">
+<BibNumber>21</BibNumber>
+<StartTime>2019-04-29T19:01:42.000</StartTime>
+<FinishTime>2019-04-29T19:26:00.000</FinishTime>
+<Time>1458</Time>
+<TimeBehind>306</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>364841</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925906</EntryId>
+<Person sex="F">
+<Id>155614</Id>
+<Name>
+<Family>Lund</Family>
+<Given>Cecilia</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:55:05.000</StartTime>
+<FinishTime>2019-04-29T19:20:22.000</FinishTime>
+<Time>1517</Time>
+<TimeBehind>365</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>1542916</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Henriksson</Family>
+<Given>Carl</Given>
+</Name>
+</Person>
+<Result raceNumber="1">
+<BibNumber>18</BibNumber>
+<StartTime>2019-04-29T18:59:41.000</StartTime>
+<FinishTime>2019-04-29T19:25:34.000</FinishTime>
+<Time>1553</Time>
+<TimeBehind>401</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>1423496</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Kelly</Family>
+<Given>Simon</Given>
+</Name>
+</Person>
+<Result raceNumber="1">
+<BibNumber>20</BibNumber>
+<StartTime>2019-04-29T19:00:39.000</StartTime>
+<FinishTime>2019-04-29T19:26:45.000</FinishTime>
+<Time>1566</Time>
+<TimeBehind>414</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>256371</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924981</EntryId>
+<Person sex="M">
+<Id>146403</Id>
+<Name>
+<Family>Hansson</Family>
+<Given>Mats</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:52:12.000</StartTime>
+<FinishTime>2019-04-29T19:20:31.000</FinishTime>
+<Time>1699</Time>
+<TimeBehind>547</TimeBehind>
+<Position>10</Position>
+<Status>OK</Status>
+<ControlCard>249389</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>11680</Id>
+<Name>
+<Family>Jonasson</Family>
+<Given>Christin</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>14</BibNumber>
+<StartTime>2019-04-29T18:46:45.000</StartTime>
+<FinishTime>2019-04-29T19:16:18.000</FinishTime>
+<Time>1773</Time>
+<TimeBehind>621</TimeBehind>
+<Position>11</Position>
+<Status>OK</Status>
+<ControlCard>209935</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3924708</EntryId>
+<Person sex="F">
+<Id>75893</Id>
+<Name>
+<Family>Ylipää</Family>
+<Given>Lena</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:44:45.000</StartTime>
+<FinishTime>2019-04-29T19:14:24.000</FinishTime>
+<Time>1779</Time>
+<TimeBehind>627</TimeBehind>
+<Position>12</Position>
+<Status>OK</Status>
+<ControlCard>9730313</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>5812</Id>
+<Name>
+<Family>Nordberg</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>32</BibNumber>
+<StartTime>2019-04-29T19:11:14.000</StartTime>
+<FinishTime>2019-04-29T19:42:07.000</FinishTime>
+<Time>1853</Time>
+<TimeBehind>701</TimeBehind>
+<Position>13</Position>
+<Status>OK</Status>
+<ControlCard>47392</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>29103</Id>
+<Name>
+<Family>Snijder</Family>
+<Given>Jannike</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>423</Id>
+<Name>IK Uven</Name>
+<ShortName>IK Uven</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>22</BibNumber>
+<StartTime>2019-04-29T18:57:25.000</StartTime>
+<FinishTime>2019-04-29T19:30:50.000</FinishTime>
+<Time>2005</Time>
+<TimeBehind>853</TimeBehind>
+<Position>14</Position>
+<Status>OK</Status>
+<ControlCard>446249</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3925275</EntryId>
+<Person sex="M">
+<Id>69418</Id>
+<Name>
+<Family>Strömbäck</Family>
+<Given>Ted</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>443</Id>
+<Name>Vittjärvs IK</Name>
+<ShortName>Vittjärvs IK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:39:31.000</StartTime>
+<FinishTime>2019-04-29T19:14:29.000</FinishTime>
+<Time>2098</Time>
+<TimeBehind>946</TimeBehind>
+<Position>15</Position>
+<Status>OK</Status>
+<ControlCard>248896</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>5802</Id>
+<Name>
+<Family>Nordberg</Family>
+<Given>Lars Olov</Given>
+</Name>
+<BirthDate>1959-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>43</Id>
+<Name>Bergnäsets AIK</Name>
+<ShortName>Bergnäsets AIK</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>31</BibNumber>
+<StartTime>2019-04-29T19:09:33.000</StartTime>
+<FinishTime>2019-04-29T19:44:04.000</FinishTime>
+<Time>2071</Time>
+<TimeBehind>919</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>47395</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3929578</EntryId>
+<Person sex="F">
+<Id>13795</Id>
+<Name>
+<Family>Rosén</Family>
+<Given>Monica</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Result raceNumber="1">
+<StartTime>2019-04-29T19:06:31.000</StartTime>
+<Status>DidNotFinish</Status>
+<ControlCard>343812</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<EntryId>3927483</EntryId>
+<Person sex="F">
+<Id>33453</Id>
+<Name>
+<Family>Svanberg</Family>
+<Given>Maria</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>305</Id>
+<Name>OK Renen</Name>
+<ShortName>OK Renen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-04-29T18:30:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7680729</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>60.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+</ResultList>
