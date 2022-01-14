@@ -1,22 +1,2 @@
-import {FeatureAppDefinition} from '@feature-hub/core';
-import {ReactFeatureApp} from '@feature-hub/react';
-import * as React from 'react';
-
-const featureAppDefinition: FeatureAppDefinition<ReactFeatureApp> = {
-  dependencies: {
-    externals: {
-      react: '^16.7.0',
-      '@feature-hub/react': '^2.0.0',
-    },
-  },
-
-  create: ({done}) => ({
-    render: () => (
-      <>
-        <p>Hello, World!</p>
-      </>
-    ),
-  }),
-};
-
-export default featureAppDefinition;
+!function(e,t){if("object"==typeof exports&&"object"==typeof module)module.exports=t(require("react"));else if("function"==typeof define&&define.amd)define(["react"],t);else{var r="object"==typeof exports?t(require("react")):t(e.react);for(var o in r)("object"==typeof exports?exports:e)[o]=r[o]}}("undefined"!=typeof self?self:this,(function(e){return(()=>{"use strict";var t={156:t=>{t.exports=e}},r={};function o(e){var n=r[e];if(void 0!==n)return n.exports;var u=r[e]={exports:{}};return t[e](u,u.exports,o),u.exports}o.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return o.d(t,{a:t}),t},o.d=(e,t)=>{for(var r in t)o.o(t,r)&&!o.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},o.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),o.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})};var n={};return(()=>{o.r(n),o.d(n,{default:()=>f,featureAppDefinition:()=>a});var e=o(156),t=o.n(e);const r=t().createContext(void 0);function u(){const{"s2:logger":e=console}=function(){const e=t().useContext(r);if(!e)throw new Error("No featureServices context value was provided.");return e}();return t().useEffect((()=>e.debug("Hello World!")),[e]),t().createElement("p",null,t().createElement("strong",null,"VGS SE")," Starter Feature App")}const a={optionalDependencies:{featureServices:{"s2:logger":"^1.0.0"}},create:({featureServices:e})=>({render:()=>t().createElement(r.Provider,{value:e},t().createElement(u,null))})},f=a})(),n})()}));
+//# sourceMappingURL=starter-feature-app.js.map
